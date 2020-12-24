@@ -1,0 +1,91 @@
+<h1>Seven</h1>
+<p>This project is a template for building sites using the <a href="https://www.11ty.io/">Eleventy</a> static site generator. You can see a demo of the site at <a href="https://7ty.tech">7ty.tech</a>. It features a Vue.js powered simple search based on what's in <code>_site/posts</code> and <code>_site/courses</code> as well as pagination, animations and much more.</p>
+<h2>Quickstart</h2>
+<ul>
+<li><code>Clone</code> or <code>download</code> the repo</li>
+<li>Run <code>npm install</code> to install dependencies</li>
+<li>Run <code>npm start</code> to start the development server.</li>
+<li>Point your browser to <code>localhost:8080</code></li>
+<li>Edit posts in the <code>_site/posts</code> or <code>_site/courses</code> folder.</li>
+<li>Run <code>npm run build</code> to build the project.</li>
+</ul>
+<h2>Styles</h2>
+<p>All the files that require pre-processing are inside the <code>_templates/_process</code> folder.</p>
+<p>The main sass doument is the <code>style.scss</code> document, which has a number of imports including fonts. This also imports bootstrap, but notice several unused bootstrap components have been commented out to make the file size smaller. Feel free to uncomment these if you're going to be using them in your layout.</p>
+<p><code>_custom.scss</code> lets you override sass variables so you can customize the way different components work. This new version of seven uses a dark mode color scheme by default, but it's fairly easy to update using this custom file.</p>
+<p>All of the overrides for specific styles are in the <code>_overrides.scss</code> file, so look there to change the way specific classes work.</p>
+<h2>Scripts</h2>
+<p>The <code>js</code> folder has a single script.js file. There are two parts, a jquery section that is designed to change the way Bootstrap's jquery components work and a vue.js instance that powers the search.</p>
+<p>In this version, I'm using script tags to the CDNs for things like the Bootstrap Javascript, the fonts, etc. I wasn't changing any of the bootstrap or other library javascript so I think this will be much more performant since most people will have the CDNs pre-loaded in their browsers.</p>
+<h2>Site</h2>
+<p>The main 11.ty site files are all in the <code>_site</code> folder.</p>
+<p>The <code>_site</code> folder is pretty much like your website root folder. These files will convert to pages for the most part. It's useful to think of it as having the structure your site folder will have (notice there are index, css, image files like on your site), but don't be fooled, most of the files in this folder need to be processed.</p>
+<p>The <code>_templates</code> folder has a series of templates used to build your site, no content here. Most of these are self explanatory and you'll see these being called in your pages. There is a <code>_layouts</code> folder that has the main layouts. You should probably look at the 11.ty documentation to learn how these work. Of course, I've added the <code>_templates</code> folder in here because it helps with the reloading of elements during development.</p>
+<p>There is a special getTagsList.js folder which sets up your tags, It's used by the main configuration file called <code>.eleventy.js</code>. I didn't know where else to put it so it seemed like a good idea to me.</p>
+<h2><code>_data</code> folder</h2>
+<p>This has the <code>metadata.json</code> file, which includes variables that the site uses to build itself. Things like name, bio, the title of the site. For example, you can access the title of the site using `` in your template.</p>
+<p>There is also a <code>myProject.js</code> file. The purpose of this file is to expose the value of the environment variable's setting (development or production) so you can use it in templates like this:</p>
+<pre><code class="language-html">
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js&quot;&gt;&lt;/script&gt;
+
+</code></pre>
+<p>I use this to load the development version of vue.js during development and the smaller distribution version when building the project.</p>
+<h2>Configuration</h2>
+<p>The main configuration file is called <code>.eleventy.js</code> and is in the root folder. The important bits are the special collections based on existing folders.</p>
+<pre><code class="language-js">// only content in the `posts/` directory
+eleventyConfig.addCollection(&quot;courses&quot;, function(collection) {
+  return collection.getFilteredByGlob(&quot;./_site/courses/*.md&quot;).reverse();
+});
+
+eleventyConfig.addCollection(&quot;searchable&quot;, function(collection) {
+  return collection
+    .getFilteredByGlob([&quot;./_site/courses/*.md&quot;, &quot;./_site/posts/*.md&quot;])
+    .reverse();
+});
+</code></pre>
+<p>These commands set up collections, which are used to build the site. The first example corresponds to folders in the <code>_site</code> folder that are the main sections of the site. The commands here will look for a certain folder in the <code>_sites</code> folder and build a collection out of everything in there.</p>
+<p>The last one adds folders to a new collection which our <code>Vue.js</code> search component uses. If you add a new collection, make sure you add it here. Check the 11.ty documentation to learn how to use the <code>getFilteredByGlob</code> command.</p>
+<pre><code>  eleventyConfig.addPassthroughCopy(&quot;./_site/images&quot;);
+</code></pre>
+<p>This code is used to copy whatever is in these folders, if you happen to move the locations of images, then update this.</p>
+<p>I hate messy root folders, so I've reconfigured where eleventy places files.</p>
+<pre><code class="language-js">dir: {
+  input: &quot;_site&quot;,
+  includes: &quot;_templates&quot;,
+  data: &quot;_data&quot;,
+  output: &quot;dist&quot;
+}
+</code></pre>
+<p>If you move stuff around, remember to update these. Also, the build processes refer to some of these locations, so if you move things, remember to update these.</p>
+<pre><code class="language-js">    &quot;start&quot;: &quot;npm-run-all --parallel dev:*&quot;,
+    &quot;dev:del&quot;: &quot;rimraf dist&quot;,
+    &quot;dev:eleventy&quot;: &quot;ELEVENTY_ENV=development eleventy --serve --quiet&quot;,
+    &quot;dev:webpack&quot;: &quot;webpack --config webpack.dev.js&quot;,
+
+    &quot;build&quot;: &quot;run-s prod:*&quot;,
+    &quot;now-build&quot;: &quot;run-s prod:*&quot;,
+    &quot;prod:del&quot;: &quot;rimraf build&quot;,
+    &quot;prod:webpack&quot;: &quot;webpack -p --config webpack.prod.js&quot;,
+    &quot;prod:serve&quot;: &quot;ELEVENTY_ENV=production eleventy --output=./build&quot;
+</code></pre>
+<h2>Building</h2>
+<p>I have two main processes that can run. There is a shared configuration file called <code>webpack.common.js</code> and two other configuration for development or production environments.</p>
+<pre><code class="language-sh">npm start
+</code></pre>
+<p>This cleans up the dist or build folders, then runs eleventy and webpack. Webpack takes care of processing the sass and javascript.</p>
+<pre><code class="language-sh">npm run build
+</code></pre>
+<p>This cleans up/creates a new build folder, then runs the eleventy and webpack. Webpack takes care of processing the sass and javascript. The webpack processes are in <code>webpack.prod.js</code>.</p>
+<p>There is an optional now-build process here as well that runs if you are using <code>zeit.co</code></p>
+<h2>Other Setup Files</h2>
+<ul>
+<li>
+<p><code>now.json</code> - Configuration for now, if you use <a href="https://zeit.co">zeit.co</a>.</p>
+</li>
+<li>
+<p><code>.nowignore</code> - Thing that <code>now</code> ignores</p>
+</li>
+<li>
+<p><code>.babelrc</code> - configures how webpack processes javascript to make it more or less compatible with older browser versions.</p>
+</li>
+</ul>
