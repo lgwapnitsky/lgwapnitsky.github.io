@@ -4,12 +4,20 @@
 	<subtitle></subtitle>
 	<link href="https://larry.wapnitsky.com/feed/feed.xml" rel="self"/>
 	<link href="larry.wapnitsky.com"/>
-	<updated>2020-12-22T00:00:00+00:00</updated>
+	<updated>2021-01-01T00:00:00+00:00</updated>
 	<id></id>
 	<author>
 		<name>Larry G. Wapnitsky</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Future Test</title>
+		<link href="/posts/2021-01-01-test-future/"/>
+		<updated>2021-01-01T00:00:00+00:00</updated>
+		<id>/posts/2021-01-01-test-future/</id>
+		<content type="html"></content>
+	</entry>
 	
 	<entry>
 		<title>The Chips Are On The Table/Hot Tikha Ganthia</title>
