@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+    
+
+    <title>Larry G Wapnitsky</title>
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous"></script>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    
+      <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script>
+    
+
+    <script src="/js/script.js"></script>
+    </head>
+  <body class="position-relative" data-spy="scroll" data-target=".site-nav" data-offset="55">
+    <nav class="site-nav family-sans navbar navbar-expand-md navbar-dark  fixed-top  py-0">
+  <div class="container-fluid">
+    <button type="button" class="navbar-toggler my-2 my-md-0" data-toggle="collapse" data-target="#myTogglerNav" aria-controls="myTogglerNav" aria-label="Toggle Navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-brand text-uppercase">
+      <a class="text-light" href="/"><i class="fas fa-cube mr-2"></i>Larry G Wapnitsky</a> 
+    </div>
+
+    <div class="collapse navbar-collapse text-center mt-0" id="myTogglerNav">
+      <div class="navbar-nav ml-auto font-weight-regular text-uppercase">
+        
+        <a class="d-none nav-item nav-link" href="#page-hero">hero target</a>
+        <a class="d-none nav-item nav-link" href="#main-content">nav target</a>
+        
+        <a class="nav-item nav-link font-weight-bold  text-light" href="/"><i class="fas fa-home"></i></a>
+        
+          <a class="nav-item nav-link" href="/the_lab/0/">the lab</a>
+          
+          <a class="nav-item nav-link" href="/posts/0/">posts</a>
+          <div class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Projects
+          </a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
+
+
+
+
+          </div>
+        </div>
+        <div class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fas fa-user"></i>
+          </a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
+            <a class="dropdown-item text-capitalize" href="/about">About Me</a>
+            <div class="dropdown-divider"></div><a class="dropdown-item text-capitalize" target="_blank" href="https://github.com/lgwapnitsky">
+            <i class="fab fa-github text-secondary mr-2"></i>github
+          </a><a class="dropdown-item text-capitalize" target="_blank" href="https://linkedin.com/in/larry.g.wapnitsky">
+            <i class="fab fa-linkedin text-secondary mr-2"></i>linkedin
+          </a><a class="dropdown-item text-capitalize" target="_blank" href="https://twitter.com/lgwapnitsky">
+            <i class="fab fa-twitter text-secondary mr-2"></i>twitter
+          </a><a class="dropdown-item text-capitalize" target="_blank" href="https://www.instagram.com/larrygwapnitsky">
+            <i class="fab fa-instagram text-secondary mr-2"></i>instagram
+          </a><a class="dropdown-item text-capitalize" target="_blank" href="https://www.youtube.com/channel/UCLRe9uErUM8M3G0AZ2SO1Mw">
+            <i class="fab fa-youtube text-secondary mr-2"></i>youtube
+          </a><a class="dropdown-item text-capitalize" target="_blank" href="https://reddit.com/u/larrygwapnitsky">
+            <i class="fab fa-reddit text-secondary mr-2"></i>reddit
+          </a></div>
+        </div>
+      </div>
+      <div class="searchbox pl-2 py-2">
+    <input
+      type="text"
+      v-model="query"
+      class="form-control text-white border m-auto"
+      :class="[isActive ? 'wide' : 'short']"
+      @focus="isActive=true"
+      @blur.prevent="handleBlur"
+      ref="searchinput"
+      style="background: transparent;"
+      aria-describedby="searchinput"
+      autocomplete="off"
+    >
+    <div v-if="query && isActive" class="position-absolute justify-content-center" style="top: 47px;">
+      <div class="card bg-secondary">
+        <ul class="list-group list-group-flush px-0" v-for="(item, index) in queried" :key="index">
+          <li class="list-group-item">
+            <a :href="item.url" class="d-flex text-secondary">
+              <span class="pr-2" v-html="item.icon"></span>
+              <span class="text-body text-left" v-html="item.title"></span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+</div>
+    </div>
+  </div>
+</nav>
+
+    
+  <header id="page-hero" class="site-header position-relative  site-header" style="width: 100vw; min-height: 50vh;">
+<section class="layout-hero position-absolute d-flex align-items-center" style="background-image: linear-gradient(rgba(0, 0, 0, .7) 50px, transparent), url(/images/posts/happy-new-year-2021-new-820x554.png); height: 100%; width: 100%;  filter: blur(3px);" ></section>
+<div class="layout-hero-content position-absolute d-flex align-items-center w-100 h-100">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="header-content col-11 col-sm-10 col-md-9 animated fadeInUp">
+        <h2 class="page-section-title text-light">A Very Happy New Year To You</h2>
+        <p class="page-section-text text-light d-none d-md-block">
+          What's in store for me in the coming year? How do I plan to educate and improve myself?
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+</header> 
+
+
+
+ 
+<article id="main-content" class="site-main container mt-3 mb-5"
+
+>
+<main class="px-3 px-sm-0">
+<p>Without going into too much detail, the past year-plus has been very difficult for me. My fitness has waned significantly, my mental acuity has suffered, and I've just not felt very self-confident. I'm sure many others have felt this with the overwhelming power that COVID-19 has had over our society. I'm not saying I'm a unique butterfly, but my issues are mine to address, and only mine.</p>
+<h2 id="physical-fitness">Physical Fitness <a class="direct-link" href="#physical-fitness"> </a></h2>
+<p>So many races were postponed or cancelled in 2020 due to the pandemic. Combined with a lack of mental energy, I completely fell off in my workout routines, gained some weight (which I did try to work on and made some progress regarding loss), and have physically changed back to an uncomfortable level. I did try to lean on my social groups, but this proved to be difficult to manage, even though we were accountable to each other. As a runner, and general fitness guy, this has not sat well with me, and I need a good kick in the butt to get going again. How? More accountability.</p>
+<p>I'm going to lay myself bare, here. I'm going to update you on my physical progress as the year goes on. While it may not be frequent, I'll try at least once per month to let you know where I am in terms of setting/following a routine and how I'm feeling. If I fall short on posting, call me out on social media. If I'm slacking off and losing motivation, call me out on social media.</p>
+<p>Overall, the goal is to use my physical fitness to build routines that will eventually help build and improve on my...</p>
+<h2 id="mental-fitness">Mental Fitness <a class="direct-link" href="#mental-fitness"> </a></h2>
+<p>To say that managing my mental fitness in 2020 has been a tough row to hoe is an understatement. I struggled with keeping my mind active, trying to read, avoiding useless video media, and wasting time on the Internet. I know that I can do better, it's just a matter of setting the habits and goals, then sticking to them. Much like physical fitness, I need the accountability and tracking.</p>
+<p>I started to journal this year, then gave up within a matter of days. The book is sitting by my bedside. Restart it? Use the blog as a &quot;journal&quot; of sorts? Possibly.</p>
+<p>There's a lot of work ahead in order to regain the fitness I once had, much like my physical fitness. Will I ever be the same? Probably not. Can I be a better version of who I've been for the past year? Definitely.</p>
+<h2 id="personal-growth-%26-education">Personal Growth &amp; Education <a class="direct-link" href="#personal-growth-%26-education"> </a></h2>
+<p>I guess I'll review my past goals and set some new ones here:</p>
+<ul>
+<li>
+<p>There are many cooking-related goals to review and set:</p>
+<ul>
+<li>Grilling and smoking - I learned to make pastrami this year. That was an adventure, and pretty darned delicious. Beyond that, I just smoked meats when I felt like it, but didn't quite do enough. So, for 2021, the goal is to smoke more more meat AND to continue building my own smoker (soon to be written about in The Lab), which coincides with another goal for the year that will be mentioned below.</li>
+</ul>
+</li>
+</ul>
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CEudcFtHmGe/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CEudcFtHmGe/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CEudcFtHmGe/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Larry G. Wapnitsky (@larrygwapnitsky)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+<ul>
+<li>
+<p>Sous-vide and pickiling went hand-in-hand, as I used my SV for pickling, as well as some delicious fish, scallops, and beautiful strip steaks. Again, the goal is to do more.</p>
+</li>
+<li>
+<p>The pressure cooker has been my go-to for a few years, now, and this year I really picked up on some new dishes that became family favorites - meatloaf &amp; mashed potatoes, pork belly with shoyu eggs, and more. 2021 is the year of learning to bake in the pressure cooker. I've tried once with middling success. I REALLY want to make a cheesecake!</p>
+</li>
+<li>
+<p>Just keep cooking! It's fun, I'm learning a lot, especially with baking AND the fact that my son is gluten-free, so adjusting for that has been an adventure in learning.</p>
+</li>
+<li>
+<p>Re-learn programming - why? Well, for one, I need it for my smoker. I'm combining a few projects and building a smoker out of a file-cabinet, then adding in a temperature regulated heater to manage the smoke temperature. As of writing this, I'm 75% done with the cabinet, and about 80% with the electronics. The latter is the tougher part.</p>
+</li>
+<li>
+<p>I managed to meet my Goodreads reading goal this year, with a few cheat books included that I read to my daughter. I don't see an option for a 2021 challenge, but my plan is to either meet or exceed the 51 books completed in 2020.</p>
+</li>
+</ul>
+<div id="gr_challenge_11621" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
+  <div id="gr_challenge_progress_body_11621" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
+    <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
+      <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11621-2020-reading-challenge">2020 Reading Challenge</a>
+    </h3>
+        <div class="challengePic">
+          <a rel="nofollow" href="https://www.goodreads.com/challenges/11621-2020-reading-challenge"><img alt="2020 Reading Challenge" style="float:left; margin-right: 10px; border: 0 none" src="https://images.gr-assets.com/challenges/1575497947p2/11621.jpg" /></a>
+        </div>
+      <div>
+        <a rel="nofollow" href="https://www.goodreads.com/user/show/1656256-larry">Larry</a> has
+            completed his goal of reading
+            50 books in
+            2020!
+      </div>
+      <div style="width: 100px; margin: 4px 5px 5px 0; float: left; border: 1px solid #382110; height: 8px; overflow: hidden; background-color: #FFF">
+        <div style="width: 100%; background-color: #D7D2C4; float: left"><span style="visibility:hidden">hide</span></div>
+      </div>
+      <div style="font-family: arial, verdana, helvetica, sans-serif;font-size:90%">
+        <a rel="nofollow" href="https://www.goodreads.com/user_challenges/19222365">51 of 50 (100%)</a>
+      </div>
+        <div style="text-align: right;">
+          <a style="text-decoration: none; font-size: 10px;" rel="nofollow" href="https://www.goodreads.com/user_challenges/19222365">view books</a>
+        </div>
+  </div>
+	<script src="https://www.goodreads.com/user_challenges/widget/1656256-larry?challenge_id=11621&v=2"></script>
+</div>
+<h2 id="tip-of-the-iceberg">Tip of the Iceberg <a class="direct-link" href="#tip-of-the-iceberg"> </a></h2>
+<p>This is only just the beginning. 2021 is really the year I want to make changes, as well as be mindful of and accountable to them. I hope you'll join me on the journey.</p>
+
+</main>
+</article>
+
+    <footer class="site-footer bg-transparent pb-3 pb-md-5">
+      <div class="layout-social container d-flex justify-content-center">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</div>
+    </footer>
+  </body>
+
+</html>

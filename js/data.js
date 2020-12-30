@@ -1,4 +1,11 @@
 [{
+  "title": "A Very Happy New Year To You",
+  "date" : "Jan 01, 2021",
+  "summary" : "What&#39;s in store for me in the coming year? How do I plan to educate and improve myself?",
+  "thumbnail": "/images/posts/happy-new-year-2021-new-820x554.png",
+  "url": "/posts/2021-01-01-Happy-New-Year/",
+  "tags" : "New Year,Education,Self-Improvement"
+},{
   "title": "The Chips Are On The Table/Hot Tikha Ganthia",
   "date" : "Dec 22, 2020",
   "summary" : "I do most of the shopping for the family, making as few trips as possible due to the pandemic. Therefore, I get to choose some of the fun treats that get brought home occasstionally. My new habit is to find interesting-flavored snacks from around the world and try them. So, why not write about them?",
