@@ -20,7 +20,28 @@
       <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script>
     
 
-    <script src="/js/script.js"></script>
+      <script src="/js/script.js"></script>
+
+
+      <!--- matomo links for larry.wapnitsky.com --->
+      <!-- Matomo -->
+      <script type="text/javascript">
+	var _paq = window._paq = window._paq || [];
+	/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+	_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+	(function() {
+	    var u="https://matomo.wapnitsky.com/";
+	    _paq.push(['setTrackerUrl', u+'matomo.php']);
+	    _paq.push(['setSiteId', '9']);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	})();
+      </script>
+      <noscript><p><img src="https://matomo.wapnitsky.com/matomo.php?idsite=9&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+      <!-- End Matomo Code -->
+
     </head>
   <body class="position-relative" data-spy="scroll" data-target=".site-nav" data-offset="55">
     <nav class="site-nav family-sans navbar navbar-expand-md navbar-dark  sidebar sticky-top  py-0">
