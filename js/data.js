@@ -9,7 +9,7 @@
   "title": "The Chips Are On The Table/Hot Tikha Ganthia",
   "date" : "Dec 22, 2020",
   "summary" : "I do most of the shopping for the family, making as few trips as possible due to the pandemic. Therefore, I get to choose some of the fun treats that get brought home occasstionally. My new habit is to find interesting-flavored snacks from around the world and try them. So, why not write about them?",
-  "thumbnail": "/images/posts/tikha_ganthia_bag.png",
+  "thumbnail": "/images/posts/snacks/tikha_ganthia_bag.png",
   "url": "/posts/2020-12-22-the-chips-are-on-the-table/",
   "tags" : "food,chips,snacks"
 },{
