@@ -1,4 +1,18 @@
 [{
+  "title": "Chips of deception - Tteokbokki",
+  "date" : "Jan 05, 2021",
+  "summary" : "Looked hot...was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.",
+  "thumbnail": "/images/posts/snacks/tteokbokki_front_rotated.png",
+  "url": "/posts/2021-01-05-hot-chip-deception-tteokbokki/",
+  "tags" : "food,chips,snacks"
+},{
+  "title": "The Weight Is Over...By A Lot",
+  "date" : "Jan 04, 2021",
+  "summary" : "Restarting the fitness journey, I decided to step on the scale this morning. What I saw was not what I wanted, so it&#39;s time to aim for my goals.",
+  "thumbnail": "/images/posts/health/scale.png",
+  "url": "/posts/2021-01-04-the-weight-is-over/",
+  "tags" : "health,fitness"
+},{
   "title": "A Very Happy New Year To You",
   "date" : "Jan 01, 2021",
   "summary" : "What&#39;s in store for me in the coming year? How do I plan to educate and improve myself?",
