@@ -1,4 +1,11 @@
 [{
+  "title": "Pause and Effect",
+  "date" : "Jan 14, 2021",
+  "summary" : "What happened in the first 2 weeks of the year that cause me to temporarily pause my workouts? While partially physical, most of it was mental. Here&#39;s the next steps...",
+  "thumbnail": "/images/posts/pause_button.png",
+  "url": "/posts/2021-01-14-pause-and-effect/",
+  "tags" : "health,fitness"
+},{
   "title": "The Weight Is Over...By A Lot",
   "date" : "Jan 04, 2021",
   "summary" : "Restarting the fitness journey, I decided to step on the scale this morning. What I saw was not what I wanted, so it&#39;s time to aim for my goals.",
