@@ -1,4 +1,11 @@
 [{
+  "title": "Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers",
+  "date" : "Jan 16, 2021",
+  "summary" : "A few trips to different markets and I &#39;bagged&#39; myself a few new snacks to try out. What did I get, and how did they taste?",
+  "thumbnail": "/images/posts/snacks/spicy_pepper_toon.png",
+  "url": "/posts/2021-01-16-hot-snack-roundup/",
+  "tags" : "food,chips,snacks"
+},{
   "title": "Pause and Effect",
   "date" : "Jan 14, 2021",
   "summary" : "What happened in the first 2 weeks of the year that cause me to temporarily pause my workouts? While partially physical, most of it was mental. Here&#39;s the next steps...",
