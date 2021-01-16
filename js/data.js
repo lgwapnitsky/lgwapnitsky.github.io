@@ -1,4 +1,11 @@
 [{
+  "title": "The File Cabinet Smoker Project - Part I - Microelectronics",
+  "date" : "Jan 20, 2021",
+  "summary" : "What possessed me to start building a smoker? Even moreso, why learn about microelectronics?",
+  "thumbnail": "/images/the_lab/smoker/arduino-a000066.jpg",
+  "url": "/the_lab/2021-01-20-file-cabinet-smoker-1/",
+  "tags" : "lab,smoker,Arduino,microelectronics"
+},{
   "title": "Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers",
   "date" : "Jan 16, 2021",
   "summary" : "A few trips to different markets and I &#39;bagged&#39; myself a few new snacks to try out. What did I get, and how did they taste?",
