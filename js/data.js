@@ -1,4 +1,11 @@
 [{
+  "title": "The Road To Fitness",
+  "date" : "Jan 22, 2021",
+  "summary" : "The struggle bus has gotten back on the road, and I&#39;m back in the game to work on my fitness levels - both physical and mental. What&#39;s changed?",
+  "thumbnail": "/images/posts/health/pothole_road.png",
+  "url": "/posts/2021-01-22-road-to-fitness/",
+  "tags" : "health,fitness"
+},{
   "title": "The File Cabinet Smoker Project - Part I - Microelectronics",
   "date" : "Jan 16, 2021",
   "summary" : "What possessed me to start building a smoker? Even moreso, why learn about microelectronics?",
