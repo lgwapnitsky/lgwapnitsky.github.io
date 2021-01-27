@@ -1,4 +1,11 @@
 [{
+  "title": "The File Cabinet Smoker Project - Part II - More Microelectronics",
+  "date" : "Jan 27, 2021",
+  "summary" : "Now that I had some basic knowledge, it was time to work on figuring out how to turn a drawing into something that worked - theoretically.",
+  "thumbnail": "/images/the_lab/smoker/learn_arduino_breadboard_half.jpg",
+  "url": "/the_lab/2021-01-27-file-cabinet-smoker-02/",
+  "tags" : "lab,smoker,Arduino,microelectronics"
+},{
   "title": "The Road To Fitness",
   "date" : "Jan 22, 2021",
   "summary" : "The struggle bus has gotten back on the road, and I&#39;m back in the game to work on my fitness levels - both physical and mental. What&#39;s changed?",
@@ -10,7 +17,7 @@
   "date" : "Jan 16, 2021",
   "summary" : "What possessed me to start building a smoker? Even moreso, why learn about microelectronics?",
   "thumbnail": "/images/the_lab/smoker/arduino-a000066.jpg",
-  "url": "/the_lab/2021-01-16-file-cabinet-smoker-1/",
+  "url": "/the_lab/2021-01-16-file-cabinet-smoker-01/",
   "tags" : "lab,smoker,Arduino,microelectronics"
 },{
   "title": "Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers",
