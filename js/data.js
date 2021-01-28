@@ -1,4 +1,11 @@
 [{
+  "title": "Telegram - What is it, and why do I use it?",
+  "date" : "Jan 28, 2021",
+  "summary" : "In many of my posts, I mention that you can contact me through Telegram. What is Telegram? Why do I use it, and why should you?",
+  "thumbnail": "/images/posts/600px-Telegram_logo.svg.png",
+  "url": "/posts/2021-01-28-telegram-and-why-i-use-it/",
+  "tags" : "Telegram,communication,security,privacy"
+},{
   "title": "The File Cabinet Smoker Project - Part II - More Microelectronics",
   "date" : "Jan 27, 2021",
   "summary" : "Now that I had some basic knowledge, it was time to work on figuring out how to turn a drawing into something that worked - theoretically.",

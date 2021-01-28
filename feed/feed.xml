@@ -4,12 +4,26 @@
 	<subtitle></subtitle>
 	<link href="" rel="self"/>
 	<link href=""/>
-	<updated>2021-01-22T00:00:00-05:00</updated>
+	<updated>2021-01-28T00:00:00-05:00</updated>
 	<id></id>
 	<author>
 		<name></name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Telegram - What is it, and why do I use it?</title>
+		<link href="/posts/2021-01-28-telegram-and-why-i-use-it/"/>
+		<updated>2021-01-28T00:00:00-05:00</updated>
+		<id>/posts/2021-01-28-telegram-and-why-i-use-it/</id>
+		<content type="html">&lt;p&gt;Recent events regarding social media, many users have been switching to &lt;a href=&quot;https://telegram.me&quot;&gt;Telegram&lt;/a&gt; for their instant messaging needs and social media output. Media outlets have been &lt;a href=&quot;https://www.entrepreneur.com/article/363143&quot;&gt;reporting&lt;/a&gt; on &lt;a href=&quot;https://www.igadgetsworld.com/10-reasons-to-switch-to-telegram/&quot;&gt;why&lt;/a&gt; to switch for weeks. But why?&lt;/p&gt;
+&lt;p&gt;I, personally, have been using Telegram since about 2013, and have watched it grow. I&#39;ve had friends join intermittently, and am slowly encouraging more to join, especially those who are using WhatsApp. Why? Security features (though some &lt;a href=&quot;https://www.forbes.com/sites/zakdoffman/2021/01/23/stop-using-signal-and-telegram-until-you-change-settings-after-whatsapp-and-imessage-privacy-backlash/&quot;&gt;aren&#39;t enabled by default&lt;/a&gt;) are a big component over regular social networks. Additionally, your data isn&#39;t shared amongst multiple platforms, unlke WA, which shares with Facebook, Instagram, and any other Facebook-owned network.&lt;/p&gt;
+&lt;p&gt;Telegram is nice in that you can create groups that function in similar ways to Facebook groups and/or messenger chats. You have the ability (with a little bit of work) to automate responses using &amp;quot;bots&amp;quot; (more on this in a future article).&lt;/p&gt;
+&lt;p&gt;Looking at the bottom of my post, you can see that I&#39;m even using Telegram for comments on my articles. Even though you use a phone number for a login, I never see that data. It is encrypted between you and the Telegram server. (I also have my site data encrypted using &lt;a href=&quot;https://www.ssl.com/faqs/faq-what-is-ssl/&quot;&gt;SSL&lt;/a&gt;, so there&#39;s that layer of protection, too).&lt;/p&gt;
+&lt;p&gt;This is only my simple, cursory overview of Telegram. There&#39;s much more to learn about how it works. I&#39;ll be sure to post more about those in the future, but the articles mentioned above have plenty of good information as well.&lt;/p&gt;
+&lt;p&gt;As usual, feel free to comment below, or contact me on &lt;a href=&quot;https://telegram.me/larrygwapnitsky&quot;&gt;Telegram&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/lgwapnitsky&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>The Road To Fitness</title>
