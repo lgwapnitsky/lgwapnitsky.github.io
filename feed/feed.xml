@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Larry G Wapnitsky</title>
+	<title>Larry G. Wapnitsky</title>
 	<subtitle></subtitle>
-	<link href="https://larry.wapnitsky.com/feed/feed.xml" rel="self"/>
-	<link href="larry.wapnitsky.com"/>
+	<link href="" rel="self"/>
+	<link href=""/>
 	<updated>2021-01-22T00:00:00-05:00</updated>
 	<id></id>
 	<author>
-		<name>Larry G. Wapnitsky</name>
+		<name></name>
 		<email></email>
 	</author>
 	
