@@ -1,4 +1,18 @@
 [{
+  "title": "The slacker&#39;s health update",
+  "date" : "Mar 05, 2021",
+  "summary" : "I haven&#39;t posted in month, even though I said I&#39;d be more on the ball. Why? Keep reading...",
+  "thumbnail": "/images/posts/slacker.jpg",
+  "url": "/posts/2021-03-05-the-slackers-health-update/",
+  "tags" : "health,fitness,update"
+},{
+  "title": "Amcrest ASH21 Camera Review",
+  "date" : "Mar 01, 2021",
+  "summary" : "I was recently given the opportunity to review the Amcrest ASH21 WiFi Camera. Here are my thoughts on the product.",
+  "thumbnail": "/images/posts/amcrestash21-w.png",
+  "url": "/posts/2021-03-01-Amcrest-ASH21-White-review/",
+  "tags" : "review,camera,Amcrest"
+},{
   "title": "Telegram - What is it, and why do I use it?",
   "date" : "Jan 28, 2021",
   "summary" : "In many of my posts, I mention that you can contact me through Telegram. What is Telegram? Why do I use it, and why should you?",
