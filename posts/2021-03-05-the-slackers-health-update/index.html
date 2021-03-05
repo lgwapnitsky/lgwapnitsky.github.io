@@ -23,36 +23,33 @@
       <script src="/js/script.js"></script>
 
 
-      <!--- matomo links for larry.wapnitsky.com --->
-      <!-- Matomo -->
-      <script type="text/javascript">
-	var _paq = window._paq = window._paq || [];
-	/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-	_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-	_paq.push(['trackPageView']);
-	_paq.push(['enableLinkTracking']);
-	(function() {
-	    var u="https://matomo.wapnitsky.com/";
-	    _paq.push(['setTrackerUrl', u+'matomo.php']);
-	    _paq.push(['setSiteId', '9']);
-	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-	    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-	})();
-      </script>
-      <noscript><p><img src="https://matomo.wapnitsky.com/matomo.php?idsite=9&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-      <!-- End Matomo Code -->
-
- 
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setDomains", ["*.larry.wapnitsky.com"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.qual-itsystems.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://matomo.qual-itsystems.com/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code --> 
 
 <!-- Start Open Web Analytics Tracker -->
 <script type="text/javascript">
 //<![CDATA[
-var owa_baseUrl = 'https://owa.wapnitsky.com/';
+var owa_baseUrl = 'https://owa.qual-itsystems.com/';
 var owa_cmds = owa_cmds || [];
 owa_cmds.push(['setSiteId', '2c5990e4ff987eee586e950c035ac25e']);
 owa_cmds.push(['trackPageView']);
 owa_cmds.push(['trackClicks']);
-owa_cmds.push(['trackDomStream']);
 
 (function() {
     var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
@@ -63,6 +60,8 @@ owa_cmds.push(['trackDomStream']);
 //]]>
 </script>
 <!-- End Open Web Analytics Code -->
+
+        
 
 <!-- Hotjar Tracking Code for larry.wapnitsky.com -->
 <script>
