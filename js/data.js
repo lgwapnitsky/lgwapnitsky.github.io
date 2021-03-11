@@ -1,4 +1,11 @@
 [{
+  "title": "E-mail issues for wapnitsky.com",
+  "date" : "Mar 11, 2021",
+  "summary" : "If you&#39;re trying to contact anyone at wapnitsky.com, there is currently an email issue...",
+  "thumbnail": "/images/posts/7360483-simpsons-technical-difficulties1.jpg",
+  "url": "/posts/2021-03-11-email-issues/",
+  "tags" : "email,network"
+},{
   "title": "The slacker&#39;s health update",
   "date" : "Mar 05, 2021",
   "summary" : "I haven&#39;t posted in month, even though I said I&#39;d be more on the ball. Why? Keep reading...",

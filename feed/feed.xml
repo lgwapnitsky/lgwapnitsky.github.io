@@ -4,12 +4,23 @@
 	<subtitle></subtitle>
 	<link href="" rel="self"/>
 	<link href=""/>
-	<updated>2021-03-05T00:00:00-05:00</updated>
+	<updated>2021-03-11T00:00:00-05:00</updated>
 	<id></id>
 	<author>
 		<name></name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>E-mail issues for wapnitsky.com</title>
+		<link href="/posts/2021-03-11-email-issues/"/>
+		<updated>2021-03-11T00:00:00-05:00</updated>
+		<id>/posts/2021-03-11-email-issues/</id>
+		<content type="html">&lt;p&gt;Due to a network issue, email to anyone at &lt;a href=&quot;http://Wapnitsky.com&quot;&gt;Wapnitsky.com&lt;/a&gt; is currently down. If you need to get a hold of me, please use &lt;a href=&quot;https://telegram.me/larrygwapnitsky&quot;&gt;Telegram&lt;/a&gt; in the meantime until there is a resolution.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/no-email.jpe&quot; alt=&quot;2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Stay tuned for updates.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>The slacker&#39;s health update</title>
