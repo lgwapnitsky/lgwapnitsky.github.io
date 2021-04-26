@@ -4,7 +4,7 @@
 	<subtitle></subtitle>
 	<link href="" rel="self"/>
 	<link href=""/>
-	<updated>2021-01-27T00:00:00-05:00</updated>
+	<updated>2021-01-27T05:00:00Z</updated>
 	<id></id>
 	<author>
 		<name></name>
@@ -14,10 +14,10 @@
 	<entry>
 		<title>The File Cabinet Smoker Project - Part II - More Microelectronics</title>
 		<link href="/the_lab/2021-01-27-file-cabinet-smoker-02/"/>
-		<updated>2021-01-27T00:00:00-05:00</updated>
+		<updated>2021-01-27T05:00:00Z</updated>
 		<id>/the_lab/2021-01-27-file-cabinet-smoker-02/</id>
 		<content type="html">&lt;p&gt;Back in &lt;a href=&quot;https://larry.wapnitsky.com/the_lab/2021-01-16-file-cabinet-smoker-1/&quot;&gt;Part I&lt;/a&gt;, I discussed my plans to build an &lt;a href=&quot;https://www.arduino.cc&quot;&gt;Arduino&lt;/a&gt; microelectronic-controlled smoker, and the start of how I had to learn to even use and program the microcontroller itself. &lt;a href=&quot;https://tinkercad.com&quot;&gt;TinkerCAD&lt;/a&gt; was my savior, and I started to really get comfortable with it, so now was the time to see if I could interpret the schematic designed by &lt;a href=&quot;http://chashartley.com/smoker/SmokerFigures/SmokerSchematic3.jpg&quot;&gt;Charles Hartley&lt;/a&gt; into something functional.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://chashartley.com/smoker/SmokerFigures/SmokerSchematic3.jpg&quot; alt=&quot;Schematic&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://chashartley.com/smoker/SmokerFigures/SmokerSchematic3.jpg&quot; alt=&quot;Schematic&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Again, let me state that I have NO training in reading, interpreting, or creating electrical schematic diagrams, so this was a new challenge. My background is in programming, so understanding the code was easy. Interpreting all these lines and symbols, not so much. Thankfully, I had some knowledge of basic icons for resistors and LEDs, and the provided schematic was very detailed in how the wiring should go. Everything else, like how to hook-up the breadboard prototype, was Greek to me.&lt;/p&gt;
 &lt;p&gt;I followed everything as best as I could, but had no idea how to work a relay, so I created another project to see if I could figure it out:&lt;/p&gt;
 &lt;iframe width=&quot;725&quot; height=&quot;453&quot; src=&quot;https://www.tinkercad.com/embed/gQrY6AdMNAP?editbtn=1&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
@@ -31,11 +31,11 @@
 	<entry>
 		<title>The File Cabinet Smoker Project - Part I - Microelectronics</title>
 		<link href="/the_lab/2021-01-16-file-cabinet-smoker-01/"/>
-		<updated>2021-01-16T00:00:00-05:00</updated>
+		<updated>2021-01-16T05:00:00Z</updated>
 		<id>/the_lab/2021-01-16-file-cabinet-smoker-01/</id>
 		<content type="html">&lt;p&gt;Many years ago, I bought myself an &lt;a href=&quot;https://www.arduino.cc/&quot;&gt;Arduino&lt;/a&gt; microcontroller kit with high expectations of building something. Also, for years, it sat idle in a box in my basement. While cleaning up months ago, I got rid of a lot of my parts, but somehow kept the controller and a few extras. This was relatively smart, as part of my mental rehab is to (re)learn many new things. I guess finding the microcontroller was a sign to relearn how to use it and maybe build something.&lt;/p&gt;
 &lt;p&gt;There are so many projects out there, but I figured, &amp;quot;Why not combine interests? Let&#39;s cook with something I can control.&amp;quot; The search began, and I found a &lt;a href=&quot;http://chashartley.com/smoker/SmokerControl.html&quot;&gt;schematic&lt;/a&gt; for an Arduino Smoker Controller. Now, having no idea what I was doing, all I had to go on was the description on the website, the schematic itself, and Mr. Hartley&#39;s &lt;a href=&quot;http://chashartley.com/smoker/programText.html&quot;&gt;code/sketch&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://chashartley.com/smoker/SmokerFigures/SmokerSchematic3.jpg&quot; alt=&quot;Schematic&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://chashartley.com/smoker/SmokerFigures/SmokerSchematic3.jpg&quot; alt=&quot;Schematic&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;My non-engineering self understood the code, but the schematic was extremely foreign to me. What&#39;s a geek to do? Figure it out! But how? I didn&#39;t have all the parts needed! That&#39;s where &lt;a href=&quot;https://tinkercad.com&quot;&gt;TinkerCAD&lt;/a&gt; comes in handy!&lt;/p&gt;
 &lt;p&gt;I started out with TinkerCAD by doing some of the tutorials that are on the Arduino website so that I could see how to properly match the wiring with the code. An example was &lt;a href=&quot;https://codebender.cc/example/10.StarterKit/p08_DigitalHourglass#p08_DigitalHourglass.ino&quot;&gt;Arduino Starter Kit Project # 8 - Digital Hourglass&lt;/a&gt;&lt;/p&gt;
 &lt;iframe width=&quot;725&quot; height=&quot;453&quot; src=&quot;https://www.tinkercad.com/embed/7HUfGXzgCKN&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
@@ -46,7 +46,7 @@
 	<entry>
 		<title>What exactly is &#39;The Lab&#39;?</title>
 		<link href="/the_lab/2020-12-15-what-is-the-lab/"/>
-		<updated>2020-12-15T00:00:00-05:00</updated>
+		<updated>2020-12-15T05:00:00Z</updated>
 		<id>/the_lab/2020-12-15-what-is-the-lab/</id>
 		<content type="html">&lt;p&gt;The lab will be where I write about the things that I create, whether it be something I&#39;ve cooked in the kitchen, built in the garage, deployed to my home computer lab. It will be where good ideas go to hopefully live, and occasionally die from neglect. If anything, it will be a way to make myself more accountable to the plethora of things I&#39;m trying to accomplish, and put down to &amp;quot;paper&amp;quot; the ideas that I&#39;d love to eventually tackle.&lt;/p&gt;
 &lt;h3 id=&quot;what&#39;s-currently-being-worked-on-in-the-lab%3F&quot;&gt;What&#39;s currently being worked on in the lab? &lt;a class=&quot;direct-link&quot; href=&quot;#what&#39;s-currently-being-worked-on-in-the-lab%3F&quot;&gt; &lt;/a&gt;&lt;/h3&gt;
