@@ -2,7 +2,7 @@
   "title": "Why have I been so quiet?",
   "date" : "Apr 28, 2021",
   "summary" : "I know I said I&#39;d post more, but there&#39;s been a lot going on since the last post...",
-  "thumbnail": "/images/posts/neck_mri.jpg",
+  "thumbnail": "/images/posts/neck_mri.png",
   "url": "/posts/2021-04-28-why-so-quiet/",
   "tags" : "health,fitness,update"
 },{
