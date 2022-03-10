@@ -4,12 +4,23 @@
 	<subtitle></subtitle>
 	<link href="https://larry.wapnitsky.com/feed/feed.xml" rel="self"/>
 	<link href="https://larry.wapnitsky.com/"/>
-	<updated>2021-04-28T00:00:00Z</updated>
+	<updated>2022-03-11T00:00:00Z</updated>
 	<id>https://larry.wapnitsky.com/</id>
 	<author>
 		<name>Larry G. Wapnitsky</name>
 		<email>Larry@Wapnitsky.com</email>
 	</author>
+	
+	<entry>
+		<title>Shouting into the void?</title>
+		<link href="https://larry.wapnitsky.com/posts/2022-03-11-first-post-long-time/"/>
+		<link rel="icon" href="/images/posts/shoutintovoid.png"/>
+		<link rel="preview" href="/images/posts/shoutintovoid.pnd"/>
+		<updated>2022-03-11T00:00:00Z</updated>
+		<id>https://larry.wapnitsky.com/posts/2022-03-11-first-post-long-time/</id>
+		<summary>It&#39;s almost a year since I&#39;ve posted. Going to restart, really, but who&#39;s going to pay attention?</summary>
+		<content type="html"></content>
+	</entry>
 	
 	<entry>
 		<title>Why have I been so quiet?</title>
