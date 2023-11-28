@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>New Year - Tag - My New Hugo Site</title>
+        <link>https://larry.wapnitsky.com/tags/new-year/</link>
+        <description>New Year - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
+            <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><atom:link href="https://larry.wapnitsky.com/tags/new-year/" rel="self" type="application/rss+xml" /><item>
+    <title>A Very Happy New Year To You</title>
+    <link>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</guid>
+    <description><![CDATA[What&rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?]]></description>
+</item>
+</channel>
+</rss>

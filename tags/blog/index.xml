@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>blog - Tag - My New Hugo Site</title>
+        <link>https://larry.wapnitsky.com/tags/blog/</link>
+        <description>blog - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
+            <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><lastBuildDate>Tue, 15 Dec 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>I&#39;m back to blogging</title>
+    <link>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</link>
+    <pubDate>Tue, 15 Dec 2020 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</guid>
+    <description><![CDATA[It&rsquo;s been a while since I&rsquo;ve worked on my blog, but there&rsquo;s no better time than now to refresh the way it looks and to start writing again.]]></description>
+</item>
+</channel>
+</rss>

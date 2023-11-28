@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>hello world - Tag - My New Hugo Site</title>
+        <link>https://larry.wapnitsky.com/tags/hello-world/</link>
+        <description>hello world - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
+            <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><lastBuildDate>Mon, 27 Nov 2023 15:05:00 &#43;0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/hello-world/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello, World!</title>
+    <link>https://larry.wapnitsky.com/posts/hello-world/</link>
+    <pubDate>Mon, 27 Nov 2023 15:05:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/hello-world/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/uploads/Swirl.png" referrerpolicy="no-referrer">
+            </div>Hello, World! This is my description]]></description>
+</item>
+</channel>
+</rss>

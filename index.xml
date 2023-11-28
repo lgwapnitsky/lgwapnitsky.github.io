@@ -1,0 +1,74 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://larry.wapnitsky.com/</link>
+        <description>My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
+            <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><lastBuildDate>Tue, 28 Nov 2023 05:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://larry.wapnitsky.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>tomorrow?</title>
+    <link>https://larry.wapnitsky.com/posts/tomorrow/</link>
+    <pubDate>Tue, 28 Nov 2023 05:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/tomorrow/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Hello, World!</title>
+    <link>https://larry.wapnitsky.com/posts/hello-world/</link>
+    <pubDate>Mon, 27 Nov 2023 15:05:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/hello-world/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/uploads/Swirl.png" referrerpolicy="no-referrer">
+            </div>Hello, World! This is my description]]></description>
+</item>
+<item>
+    <title>Another test</title>
+    <link>https://larry.wapnitsky.com/posts/another-test/</link>
+    <pubDate>Mon, 27 Nov 2023 05:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/another-test/</guid>
+    <description><![CDATA[blah blah blah]]></description>
+</item>
+<item>
+    <title>one more</title>
+    <link>https://larry.wapnitsky.com/posts/one-more/</link>
+    <pubDate>Sun, 26 Nov 2023 05:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/one-more/</guid>
+    <description><![CDATA[blah blah blah]]></description>
+</item>
+<item>
+    <title>The Chips Are On The Table/Hot Tikha Ganthia</title>
+    <link>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</link>
+    <pubDate>Tue, 22 Dec 2020 05:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/uploads/images/posts/snacks/tikha_ganthia_bowl_HDR.png" referrerpolicy="no-referrer">
+            </div>One of my favorite types of place to shop is ethnic supermarkets. I had a need for a lot of very specific ingredients for some cooking that I was going, so I schlepped to my local Indian market to grab what I needed. While wandering around, I stubmled into the snack aisle and became overwhelmed with the selection of interesting flavors. One type of flavor that always sticks out to me (and will become somewhat of a running theme) is hot and spicy.]]></description>
+</item>
+<item>
+    <title>I&#39;m back to blogging</title>
+    <link>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</link>
+    <pubDate>Tue, 15 Dec 2020 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</guid>
+    <description><![CDATA[It&rsquo;s been a while since I&rsquo;ve worked on my blog, but there&rsquo;s no better time than now to refresh the way it looks and to start writing again.]]></description>
+</item>
+<item>
+    <title>A Very Happy New Year To You</title>
+    <link>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</guid>
+    <description><![CDATA[What&rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?]]></description>
+</item>
+<item>
+    <title>Amcrest ASH21 Camera Review</title>
+    <link>https://larry.wapnitsky.com/posts/2021/2021-03-01-amcrest-ash21-white-review/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2021/2021-03-01-amcrest-ash21-white-review/</guid>
+    <description><![CDATA[I was recently given the opportunity to review the Amcrest ASH21 WiFi Camera. Here are my thoughts on the product.]]></description>
+</item>
+<item>
+    <title>Chips of deception - Tteokbokki</title>
+    <link>https://larry.wapnitsky.com/posts/2021/2021-01-03-hot-chip-deception-tteokbokki/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2021/2021-01-03-hot-chip-deception-tteokbokki/</guid>
+    <description><![CDATA[Looked hot&hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.]]></description>
+</item>
+<item>
+    <title>E-mail issues for wapnitsky.com</title>
+    <link>https://larry.wapnitsky.com/posts/2021/2021-03-11-email-issues/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2021/2021-03-11-email-issues/</guid>
+    <description><![CDATA[If you&rsquo;re trying to contact anyone at wapnitsky.com, there is currently an email issue&hellip;]]></description>
+</item>
+</channel>
+</rss>
