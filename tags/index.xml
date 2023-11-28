@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
+        <title>Tags - Tag - The Random Ramblings of Larry G. Wapnitsky</title>
         <link>https://larry.wapnitsky.com/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
+        <description>Tags - Tag - The Random Ramblings of Larry G. Wapnitsky</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
             <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><lastBuildDate>Tue, 28 Nov 2023 05:00:00 &#43;0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/" rel="self" type="application/rss+xml" /><item>
     <title>blog</title>

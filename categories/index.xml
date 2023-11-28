@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - My New Hugo Site</title>
+        <title>Categories - Category - The Random Ramblings of Larry G. Wapnitsky</title>
         <link>https://larry.wapnitsky.com/categories/</link>
-        <description>Categories - Category - My New Hugo Site</description>
+        <description>Categories - Category - The Random Ramblings of Larry G. Wapnitsky</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
             <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><atom:link href="https://larry.wapnitsky.com/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

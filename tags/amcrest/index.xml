@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Amcrest - Tag - My New Hugo Site</title>
+        <title>Amcrest - Tag - The Random Ramblings of Larry G. Wapnitsky</title>
         <link>https://larry.wapnitsky.com/tags/amcrest/</link>
-        <description>Amcrest - Tag - My New Hugo Site</description>
+        <description>Amcrest - Tag - The Random Ramblings of Larry G. Wapnitsky</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
             <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><atom:link href="https://larry.wapnitsky.com/tags/amcrest/" rel="self" type="application/rss+xml" /><item>
     <title>Amcrest ASH21 Camera Review</title>

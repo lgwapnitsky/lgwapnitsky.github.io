@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>shouting into the void - Tag - My New Hugo Site</title>
+        <title>shouting into the void - Tag - The Random Ramblings of Larry G. Wapnitsky</title>
         <link>https://larry.wapnitsky.com/tags/shouting-into-the-void/</link>
-        <description>shouting into the void - Tag - My New Hugo Site</description>
+        <description>shouting into the void - Tag - The Random Ramblings of Larry G. Wapnitsky</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
             <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><atom:link href="https://larry.wapnitsky.com/tags/shouting-into-the-void/" rel="self" type="application/rss+xml" /><item>
     <title>Shouting into the void?</title>
