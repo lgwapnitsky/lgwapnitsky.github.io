@@ -7,15 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
-    <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><atom:link href="https://larry.wapnitsky.com/tests/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster>
+    <atom:link href="https://larry.wapnitsky.com/tests/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
       <link>https://larry.wapnitsky.com/tests/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>larry@wapnitsky.com (Larry G. Wapnitsky)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author>
       <guid>https://larry.wapnitsky.com/tests/test/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
