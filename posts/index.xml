@@ -4,7 +4,15 @@
         <link>https://larry.wapnitsky.com/posts/</link>
         <description>All Posts | The Random Ramblings of Larry G. Wapnitsky</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
-            <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><lastBuildDate>Tue, 28 Nov 2023 05:00:00 &#43;0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><lastBuildDate>Mon, 04 Dec 2023 05:05:08 -0500</lastBuildDate><atom:link href="https://larry.wapnitsky.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>New Ideas</title>
+    <link>https://larry.wapnitsky.com/posts/2023/new_ideas/</link>
+    <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2023/new_ideas/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/uploads/images/posts/business-ideas.jpeg" referrerpolicy="no-referrer">
+            </div>I've had some ideas about what I want to write about here. What are my thoughts?]]></description>
+</item>
+<item>
     <title>Blogging - another attempt</title>
     <link>https://larry.wapnitsky.com/posts/2023/blogging---another-attempt/</link>
     <pubDate>Tue, 28 Nov 2023 05:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2023/blogging---another-attempt/</guid>
@@ -61,12 +69,6 @@
     <link>https://larry.wapnitsky.com/posts/2021/2021-01-14-pause-and-effect/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2021/2021-01-14-pause-and-effect/</guid>
     <description><![CDATA[What happened in the first 2 weeks of the year that cause me to temporarily pause my workouts? While partially physical, most of it was mental. Here&rsquo;s the next steps&hellip;]]></description>
-</item>
-<item>
-    <title>Shouting into the void?</title>
-    <link>https://larry.wapnitsky.com/posts/2022/2022-03-11-first-post-long-time/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2022/2022-03-11-first-post-long-time/</guid>
-    <description><![CDATA[It&rsquo;s almost a year since I&rsquo;ve posted. Going to restart, really, but who&rsquo;s going to pay attention?]]></description>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ideas - Tag - The Random Ramblings of Larry G. Wapnitsky</title>
+        <link>https://larry.wapnitsky.com/tags/ideas/</link>
+        <description>ideas - Tag - The Random Ramblings of Larry G. Wapnitsky</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>larry@wapnitsky.com (Larry G. Wapnitsky)</managingEditor>
+            <webMaster>larry@wapnitsky.com (Larry G. Wapnitsky)</webMaster><lastBuildDate>Mon, 04 Dec 2023 05:05:08 -0500</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/ideas/" rel="self" type="application/rss+xml" /><item>
+    <title>New Ideas</title>
+    <link>https://larry.wapnitsky.com/posts/2023/new_ideas/</link>
+    <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate><author>larry@wapnitsky.com (Larry G. Wapnitsky)</author><guid>https://larry.wapnitsky.com/posts/2023/new_ideas/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/uploads/images/posts/business-ideas.jpeg" referrerpolicy="no-referrer">
+            </div>I've had some ideas about what I want to write about here. What are my thoughts?]]></description>
+</item>
+</channel>
+</rss>
