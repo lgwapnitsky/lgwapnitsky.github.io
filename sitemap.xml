@@ -2,11 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://larry.wapnitsky.com/tags/blog/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
+            <loc>https://larry.wapnitsky.com/categories/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
+            <loc>https://larry.wapnitsky.com/posts/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
+            <loc>https://larry.wapnitsky.com/tags/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
+            <loc>https://larry.wapnitsky.com/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
+            <loc>https://larry.wapnitsky.com/tags/travel/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
+            <loc>https://larry.wapnitsky.com/categories/travel/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
+            <loc>https://larry.wapnitsky.com/posts/2024/traveling_through_mianus/</loc><lastmod>2024-03-09T15:14:12-05:00</lastmod></url><url>
             <loc>https://larry.wapnitsky.com/posts/2024/accountability/</loc><lastmod>2024-03-04T10:59:40-05:00</lastmod></url><url>
-            <loc>https://larry.wapnitsky.com/tags/blog/</loc><lastmod>2024-03-04T10:59:40-05:00</lastmod></url><url>
-            <loc>https://larry.wapnitsky.com/posts/</loc><lastmod>2024-03-04T10:59:40-05:00</lastmod></url><url>
-            <loc>https://larry.wapnitsky.com/tags/</loc><lastmod>2024-03-04T10:59:40-05:00</lastmod></url><url>
-            <loc>https://larry.wapnitsky.com/</loc><lastmod>2024-03-04T10:59:40-05:00</lastmod></url><url>
             <loc>https://larry.wapnitsky.com/tags/ideas/</loc><lastmod>2023-12-05T09:35:00-05:00</lastmod></url><url>
             <loc>https://larry.wapnitsky.com/posts/2023/new_ideas/</loc><lastmod>2023-12-05T09:35:00-05:00</lastmod></url><url>
             <loc>https://larry.wapnitsky.com/posts/2023/blogging---another-attempt/</loc><lastmod>2023-11-28T05:00:00&#43;00:00</lastmod></url><url>
@@ -21,7 +25,6 @@
             <loc>https://larry.wapnitsky.com/posts/2021/2021-03-01-amcrest-ash21-white-review/</loc></url><url>
             <loc>https://larry.wapnitsky.com/tags/blogging/</loc></url><url>
             <loc>https://larry.wapnitsky.com/tags/camera/</loc></url><url>
-            <loc>https://larry.wapnitsky.com/categories/</loc></url><url>
             <loc>https://larry.wapnitsky.com/posts/2021/2021-01-03-hot-chip-deception-tteokbokki/</loc></url><url>
             <loc>https://larry.wapnitsky.com/tags/communication/</loc></url><url>
             <loc>https://larry.wapnitsky.com/posts/2021/2021-03-11-email-issues/</loc></url><url>
