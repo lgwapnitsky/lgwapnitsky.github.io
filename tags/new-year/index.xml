@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Year on LGW&#39;s Random Ramblings</title>
+    <link>https://larry.wapnitsky.com/tags/new-year/</link>
+    <description>Recent content in New Year on LGW&#39;s Random Ramblings</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022 - 2025 Mark Dumay.</copyright>
+    <atom:link href="https://larry.wapnitsky.com/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Very Happy New Year To You</title>
+      <link>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</guid>
+      <description>What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?</description>
+    </item>
+  </channel>
+</rss>
