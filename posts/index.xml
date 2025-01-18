@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LGW&#39;s Random Ramblings</title>
+    <title>Blog Posts on LGW&#39;s Random Ramblings</title>
     <link>https://larry.wapnitsky.com/posts/</link>
-    <description>Recent content on LGW&#39;s Random Ramblings</description>
+    <description>Recent content in Blog Posts on LGW&#39;s Random Ramblings</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
     <atom:link href="https://larry.wapnitsky.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I&#39;m turning 50!!</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-01-18-im-turning-50/</link>
-      <pubDate>Fri, 17 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-01-18-im-turning-50/</guid>
-      <description>&lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
     <item>
       <title>Traveling Through Mianus (Connecticut)</title>
       <link>https://larry.wapnitsky.com/posts/2024/traveling_through_mianus/</link>

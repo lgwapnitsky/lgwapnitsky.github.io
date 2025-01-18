@@ -7,20 +7,34 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 10:24:46 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 02:54:48 -0500</lastBuildDate>
     <atom:link href="https://larry.wapnitsky.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog</title>
-      <link>https://larry.wapnitsky.com/tags/blog/</link>
-      <pubDate>Sat, 09 Mar 2024 15:14:12 -0500</pubDate>
-      <guid>https://larry.wapnitsky.com/tags/blog/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Travel</title>
       <link>https://larry.wapnitsky.com/tags/travel/</link>
       <pubDate>Sat, 09 Mar 2024 15:14:12 -0500</pubDate>
       <guid>https://larry.wapnitsky.com/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness</title>
+      <link>https://larry.wapnitsky.com/tags/fitness/</link>
+      <pubDate>Mon, 04 Mar 2024 10:59:40 -0500</pubDate>
+      <guid>https://larry.wapnitsky.com/tags/fitness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Improvement</title>
+      <link>https://larry.wapnitsky.com/tags/self-improvement/</link>
+      <pubDate>Mon, 04 Mar 2024 10:59:40 -0500</pubDate>
+      <guid>https://larry.wapnitsky.com/tags/self-improvement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>https://larry.wapnitsky.com/tags/blogging/</link>
+      <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
+      <guid>https://larry.wapnitsky.com/tags/blogging/</guid>
       <description></description>
     </item>
     <item>
@@ -59,24 +73,10 @@
       <description></description>
     </item>
     <item>
-      <title>Blogging</title>
-      <link>https://larry.wapnitsky.com/tags/blogging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/tags/blogging/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Education</title>
       <link>https://larry.wapnitsky.com/tags/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://larry.wapnitsky.com/tags/education/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fitness</title>
-      <link>https://larry.wapnitsky.com/tags/fitness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/tags/fitness/</guid>
       <description></description>
     </item>
     <item>
@@ -91,13 +91,6 @@
       <link>https://larry.wapnitsky.com/tags/new-year/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://larry.wapnitsky.com/tags/new-year/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Self-Improvement</title>
-      <link>https://larry.wapnitsky.com/tags/self-improvement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/tags/self-improvement/</guid>
       <description></description>
     </item>
     <item>
