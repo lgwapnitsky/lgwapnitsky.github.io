@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Sat, 18 Jan 2025 02:54:48 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 07:48:18 -0500</lastBuildDate>
     <atom:link href="https://larry.wapnitsky.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birthday</title>
+      <link>https://larry.wapnitsky.com/tags/birthday/</link>
+      <pubDate>Sat, 18 Jan 2025 05:00:00 +0000</pubDate>
+      <guid>https://larry.wapnitsky.com/tags/birthday/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflection</title>
+      <link>https://larry.wapnitsky.com/tags/reflection/</link>
+      <pubDate>Sat, 18 Jan 2025 05:00:00 +0000</pubDate>
+      <guid>https://larry.wapnitsky.com/tags/reflection/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Travel</title>
       <link>https://larry.wapnitsky.com/tags/travel/</link>
