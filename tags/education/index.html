@@ -455,6 +455,9 @@
 <script>
   var _paq = window._paq = window._paq || [];
    
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setDomains", ["*.larry.wapnitsky.com"]]);
+  _paq.push(["setDoNotTrack", true]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
@@ -465,6 +468,7 @@
     g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
+<noscript><p><img referrerpolicy="no-referrer-when-downgrade" src="//anmat.wapnitsky.com/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 
 
 </head>
