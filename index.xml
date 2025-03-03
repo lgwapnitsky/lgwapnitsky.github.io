@@ -17,6 +17,15 @@
         &lt;p&gt;Over the years, I&amp;rsquo;ve been posting pictures on social media of what I&amp;rsquo;ve been cooking for me and my family. Friends have paid me many compliments, and have said they&amp;rsquo;ll miss my posts now that I&amp;rsquo;m off of social media. That&amp;rsquo;s why I&amp;rsquo;m introducing this section of my blog!&lt;/p&gt;
       </description>
     </item>
+    <item><title>RSS Feeds are now working</title>
+      <link>https://larry.wapnitsky.com/posts/2025/rss-now-working/</link>
+      <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
+      <guid>https://larry.wapnitsky.com/posts/2025/rss-now-working/</guid>
+      <description>
+        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/rss-feed.jpg&#34;/&gt;
+        &lt;p&gt;After some trial and error, a bit of sweat, and actually reading some documentation, I&amp;rsquo;ve figured out how to get RSS working properly for this site with the thumbnails for each article appearing properly. What does this mean?&lt;/p&gt;
+      </description>
+    </item>
     <item><title>The social break (update) and a farewell</title>
       <link>https://larry.wapnitsky.com/posts/2025/social-break-farewell/</link>
       <pubDate>Fri, 21 Feb 2025 05:00:00 +0000</pubDate>
