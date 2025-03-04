@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://larry.wapnitsky.com/tags/blog/</loc>
+    <lastmod>2025-03-04T11:42:29-05:00</lastmod>
+  </url><url>
+    <loc>https://larry.wapnitsky.com/tags/communication/</loc>
+    <lastmod>2025-03-04T11:42:29-05:00</lastmod>
+  </url><url>
+    <loc>https://larry.wapnitsky.com/tags/email/</loc>
+    <lastmod>2025-03-04T11:42:29-05:00</lastmod>
+  </url><url>
     <loc>https://larry.wapnitsky.com/posts/</loc>
-    <lastmod>2025-03-03T10:48:54-05:00</lastmod>
+    <lastmod>2025-03-04T11:42:29-05:00</lastmod>
+  </url><url>
+    <loc>https://larry.wapnitsky.com/tags/</loc>
+    <lastmod>2025-03-04T11:42:29-05:00</lastmod>
+  </url><url>
+    <loc>https://larry.wapnitsky.com/posts/2025/2025-03-04-want-to-get-updates-by-email/</loc>
+    <lastmod>2025-03-04T11:42:29-05:00</lastmod>
   </url><url>
     <loc>https://larry.wapnitsky.com/posts/2025/rss-now-working/</loc>
     <lastmod>2025-03-03T10:48:54-05:00</lastmod>
   </url><url>
     <loc>https://larry.wapnitsky.com/tags/social/</loc>
     <lastmod>2025-03-03T10:48:54-05:00</lastmod>
-  </url><url>
-    <loc>https://larry.wapnitsky.com/tags/</loc>
-    <lastmod>2025-03-04T10:46:44-05:00</lastmod>
   </url><url>
     <loc>https://larry.wapnitsky.com/tags/technology/</loc>
     <lastmod>2025-03-03T10:48:54-05:00</lastmod>
