@@ -4,45 +4,39 @@
     <title>Update on Larry&#39;s Random Ramblings</title>
     <link>/tags/update/</link>
     <description>Recent content in Update on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Tue, 01 Mar 2022 05:00:00 +0000</lastBuildDate><atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
+    <lastBuildDate>Tue, 01 Mar 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shouting into the void?</title>
       <link>/posts/2022/2022-03-11-first-post-long-time/</link>
       <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
-      
       <guid>/posts/2022/2022-03-11-first-post-long-time/</guid>
-      <description>It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2022/2022-03-11-first-post-long-time/featured.png" />
+      <description>
+        &lt;img src=&#34;/posts/2022/2022-03-11-first-post-long-time//featured.png&#34;/&gt;
+        It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
+      </description>
     </item>
-    
     <item>
       <title>Why have I been so quiet?</title>
       <link>/posts/2021/2021-04-28/</link>
       <pubDate>Wed, 28 Apr 2021 05:00:00 +0000</pubDate>
-      
       <guid>/posts/2021/2021-04-28/</guid>
-      <description>I know I said I&amp;rsquo;d post more, but there&amp;rsquo;s been a lot going on since the last post&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-04-28/featured.png" />
+      <description>
+        &lt;img src=&#34;/posts/2021/2021-04-28//featured.png&#34;/&gt;
+        I know I said I&amp;rsquo;d post more, but there&amp;rsquo;s been a lot going on since the last post&amp;hellip;
+      </description>
     </item>
-    
     <item>
       <title>The slacker&#39;s health update</title>
       <link>/posts/2021/2021-03-05/</link>
       <pubDate>Fri, 05 Mar 2021 05:00:00 +0000</pubDate>
-      
       <guid>/posts/2021/2021-03-05/</guid>
-      <description>I haven&amp;rsquo;t posted in month, even though I said I&amp;rsquo;d be more on the ball. Why? Keep reading&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-03-05/featured.jpg" />
+      <description>
+        &lt;img src=&#34;/posts/2021/2021-03-05//featured.png&#34;/&gt;
+        I haven&amp;rsquo;t posted in month, even though I said I&amp;rsquo;d be more on the ball. Why? Keep reading&amp;hellip;
+      </description>
     </item>
-    
   </channel>
 </rss>

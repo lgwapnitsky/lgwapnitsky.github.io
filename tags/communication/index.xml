@@ -4,25 +4,19 @@
     <title>Communication on Larry&#39;s Random Ramblings</title>
     <link>/tags/communication/</link>
     <description>Recent content in Communication on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 04:00:00 +0000</lastBuildDate><atom:link href="/tags/communication/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
+    <lastBuildDate>Tue, 04 Mar 2025 16:22:25 +0000</lastBuildDate>
+    <atom:link href="/tags/communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Want to get updates by email?</title>
       <link>/posts/2025/2025-03-04-want-to-get-updates-by-email/</link>
       <pubDate>Tue, 04 Mar 2025 04:00:00 +0000</pubDate>
-      
       <guid>/posts/2025/2025-03-04-want-to-get-updates-by-email/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-04-want-to-get-updates-by-email/featured.png" />
+      <description>
+        &lt;img src=&#34;/posts/2025/2025-03-04-want-to-get-updates-by-email//featured.png&#34;/&gt;
+        
+      </description>
     </item>
-    
   </channel>
 </rss>

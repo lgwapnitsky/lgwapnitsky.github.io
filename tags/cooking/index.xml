@@ -4,45 +4,39 @@
     <title>Cooking on Larry&#39;s Random Ramblings</title>
     <link>/tags/cooking/</link>
     <description>Recent content in Cooking on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Mon, 17 Mar 2025 11:50:15 +0000</lastBuildDate><atom:link href="/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
+    <lastBuildDate>Mon, 17 Mar 2025 14:46:23 +0000</lastBuildDate>
+    <atom:link href="/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Corned Beef and Cabbage</title>
       <link>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
-      
       <guid>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
-      <description>The Irish staple with a Jewish connection. No, really!!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png" />
+      <description>
+        &lt;img src=&#34;/cooking/corned-beef-cabbage-irish-staple-jewish-connection//featured.png&#34;/&gt;
+        The Irish staple with a Jewish connection. No, really!!
+      </description>
     </item>
-    
     <item>
       <title>I&#39;m Moroccan these recipes!</title>
       <link>/cooking/2025-03-11-im-moroccan-these-recipes/</link>
       <pubDate>Tue, 11 Mar 2025 04:00:00 +0000</pubDate>
-      
       <guid>/cooking/2025-03-11-im-moroccan-these-recipes/</guid>
-      <description>What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-11-im-moroccan-these-recipes/featured.jpg" />
+      <description>
+        &lt;img src=&#34;/cooking/2025-03-11-im-moroccan-these-recipes//featured.png&#34;/&gt;
+        What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine
+      </description>
     </item>
-    
     <item>
       <title>Welcome to &#34;What&#39;s Cooking?&#34;</title>
       <link>/cooking/2025-03-01-welcome-to-whats-cooking/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>/cooking/2025-03-01-welcome-to-whats-cooking/</guid>
-      <description>A place to find out what&amp;rsquo;s going on in my kitchen</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-01-welcome-to-whats-cooking/featured.jpg" />
+      <description>
+        &lt;img src=&#34;/cooking/2025-03-01-welcome-to-whats-cooking//featured.png&#34;/&gt;
+        A place to find out what&amp;rsquo;s going on in my kitchen
+      </description>
     </item>
-    
   </channel>
 </rss>

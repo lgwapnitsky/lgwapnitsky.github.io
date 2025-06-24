@@ -4,25 +4,19 @@
     <title>Synthesizer on Larry&#39;s Random Ramblings</title>
     <link>/tags/synthesizer/</link>
     <description>Recent content in Synthesizer on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Sun, 09 Mar 2025 13:01:19 +0000</lastBuildDate><atom:link href="/tags/synthesizer/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
+    <lastBuildDate>Sun, 09 Mar 2025 13:07:34 +0000</lastBuildDate>
+    <atom:link href="/tags/synthesizer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Two albums by Wendy Carlos, and I want more</title>
       <link>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
-      
       <guid>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
-      <description>Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png" />
+      <description>
+        &lt;img src=&#34;/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more//featured.png&#34;/&gt;
+        Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!
+      </description>
     </item>
-    
   </channel>
 </rss>

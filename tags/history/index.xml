@@ -4,35 +4,29 @@
     <title>History on Larry&#39;s Random Ramblings</title>
     <link>/tags/history/</link>
     <description>Recent content in History on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Mon, 17 Mar 2025 11:50:15 +0000</lastBuildDate><atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
+    <lastBuildDate>Mon, 17 Mar 2025 14:46:23 +0000</lastBuildDate>
+    <atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Corned Beef and Cabbage</title>
       <link>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
-      
       <guid>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
-      <description>The Irish staple with a Jewish connection. No, really!!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png" />
+      <description>
+        &lt;img src=&#34;/cooking/corned-beef-cabbage-irish-staple-jewish-connection//featured.png&#34;/&gt;
+        The Irish staple with a Jewish connection. No, really!!
+      </description>
     </item>
-    
     <item>
       <title>Two albums by Wendy Carlos, and I want more</title>
       <link>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
-      
       <guid>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
-      <description>Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png" />
+      <description>
+        &lt;img src=&#34;/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more//featured.png&#34;/&gt;
+        Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!
+      </description>
     </item>
-    
   </channel>
 </rss>

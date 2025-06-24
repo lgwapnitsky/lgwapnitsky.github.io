@@ -4,25 +4,19 @@
     <title>Website on Larry&#39;s Random Ramblings</title>
     <link>/tags/website/</link>
     <description>Recent content in Website on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Mon, 23 Jun 2025 15:46:31 +0000</lastBuildDate><atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
+    <lastBuildDate>Mon, 23 Jun 2025 15:46:31 +0000</lastBuildDate>
+    <atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UPDATES UPDATES UPDATES</title>
       <link>/posts/2025/2025-06-23-updates-updates-updates/</link>
       <pubDate>Mon, 23 Jun 2025 15:46:31 +0000</pubDate>
-      
       <guid>/posts/2025/2025-06-23-updates-updates-updates/</guid>
-      <description>I&amp;rsquo;m a slacker, but I&amp;rsquo;m getting better :)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-06-23-updates-updates-updates/featured.jpg" />
+      <description>
+        &lt;img src=&#34;/posts/2025/2025-06-23-updates-updates-updates//featured.png&#34;/&gt;
+        I&amp;rsquo;m a slacker, but I&amp;rsquo;m getting better :)
+      </description>
     </item>
-    
   </channel>
 </rss>

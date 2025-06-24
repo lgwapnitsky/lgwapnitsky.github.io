@@ -4,25 +4,19 @@
     <title>Education on Larry&#39;s Random Ramblings</title>
     <link>/tags/education/</link>
     <description>Recent content in Education on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 05:00:00 +0000</lastBuildDate><atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
+    <lastBuildDate>Fri, 01 Jan 2021 05:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Very Happy New Year To You</title>
       <link>/posts/2021/2021-01-01/</link>
       <pubDate>Fri, 01 Jan 2021 05:00:00 +0000</pubDate>
-      
       <guid>/posts/2021/2021-01-01/</guid>
-      <description>What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-01/featured.png" />
+      <description>
+        &lt;img src=&#34;/posts/2021/2021-01-01//featured.png&#34;/&gt;
+        What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
+      </description>
     </item>
-    
   </channel>
 </rss>

@@ -4,35 +4,9 @@
     <title>Categories on Larry&#39;s Random Ramblings</title>
     <link>/categories/</link>
     <description>Recent content in Categories on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Mon, 17 Mar 2025 11:50:15 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <follow_challenge>
-      <feedId>158961557033123840</feedId>
-      <userId>LGWapnitsky</userId>
-    </follow_challenge>
-    
-    
-    <item>
-      <title>Cooking</title>
-      <link>/categories/cooking/</link>
-      <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
-      
-      <guid>/categories/cooking/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>/categories/music/</link>
-      <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
-      
-      <guid>/categories/music/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
