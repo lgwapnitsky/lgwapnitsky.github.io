@@ -1,49 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogging on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/tags/blogging/</link>
-    <description>Recent content in Blogging on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Blogging on Larry&#39;s Random Ramblings</title>
+    <link>/tags/blogging/</link>
+    <description>Recent content in Blogging on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Sat, 18 Jan 2025 02:54:48 -0500</lastBuildDate>
-    <atom:link href="https://larry.wapnitsky.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>New Ideas</title>
-      <link>https://larry.wapnitsky.com/posts/2023/new_ideas/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Mon, 04 Dec 2023 05:05:08 -0500</lastBuildDate><atom:link href="/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>New Ideas</title>
+      <link>/posts/2023/new-ideas/</link>
       <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2023/new_ideas/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/business-ideas.jpeg&#34;/&gt;
-        
-      </description>
+      
+      <guid>/posts/2023/new-ideas/</guid>
+      <description>I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/new-ideas/featured.jpeg" />
     </item>
-    <item><title>Blogging - another attempt</title>
-      <link>https://larry.wapnitsky.com/posts/2023/blogging---another-attempt/</link>
+    
+    <item>
+      <title>Blogging - another attempt</title>
+      <link>/posts/2023/blogging-another-attempt/</link>
       <pubDate>Tue, 28 Nov 2023 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2023/blogging---another-attempt/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/writers-block.jpg&#34;/&gt;
-        &lt;p&gt;Yes, again, trying to blog. I changed the platform I&amp;rsquo;m using, and was able to copy over the old posts, but the dates are incorrect, and images are currently missing. That&amp;rsquo;s a plan for the future. In the meantime, I&amp;rsquo;m REALLY going to try my best&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2023/blogging-another-attempt/</guid>
+      <description>One more try</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/blogging-another-attempt/featured.jpg" />
     </item>
-    <item><title>I&#39;m back to blogging</title>
-      <link>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</link>
+    
+    <item>
+      <title>Shouting into the void?</title>
+      <link>/posts/2022/2022-03-11-first-post-long-time/</link>
+      <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022/2022-03-11-first-post-long-time/</guid>
+      <description>It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2022/2022-03-11-first-post-long-time/featured.png" />
+    </item>
+    
+    <item>
+      <title>I&#39;m back to blogging</title>
+      <link>/posts/2020/2020-12-15-back-to-blogging/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</guid>
-      <description>
-        &lt;img src=&#34;&#34;/&gt;
-        It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
-      </description>
+      
+      <guid>/posts/2020/2020-12-15-back-to-blogging/</guid>
+      <description>It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.</description>
+      
     </item>
-    <item><title>Shouting into the void?</title>
-      <link>https://larry.wapnitsky.com/posts/2022/2022-03-11-first-post-long-time/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2022/2022-03-11-first-post-long-time/</guid>
-      <description>
-        &lt;img src=&#34;&#34;/&gt;
-        It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
-      </description>
-    </item>
+    
   </channel>
 </rss>

@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Music on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/tags/music/</link>
-    <description>Recent content in Music on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Music on Larry&#39;s Random Ramblings</title>
+    <link>/tags/music/</link>
+    <description>Recent content in Music on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Thu, 13 Mar 2025 06:13:36 -0400</lastBuildDate>
-    <atom:link href="https://larry.wapnitsky.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>Two albums by Wendy Carlos, and I want more</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Sun, 09 Mar 2025 13:01:19 +0000</lastBuildDate><atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>Two albums by Wendy Carlos, and I want more</title>
+      <link>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/wcarlos/wcarlos.png&#34;/&gt;
-        &lt;p&gt;A few years ago, I started to collect vinyl albums. It had been years since I had any semblance of a collection, but it was the COVID times, and I was bored. I picked up a decent record player, then started hunting the thrift stores and online. It was then that I found an interesting album cover, knew nothing about it, did no research, then found out from a friend that I had picked up a significant masterpiece in the history of digital music!&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
+      <description>Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png" />
     </item>
+    
   </channel>
 </rss>

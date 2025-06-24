@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Starting_over on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/tags/starting_over/</link>
-    <description>Recent content in Starting_over on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Starting_over on Larry&#39;s Random Ramblings</title>
+    <link>/tags/starting_over/</link>
+    <description>Recent content in Starting_over on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Sat, 18 Jan 2025 02:54:48 -0500</lastBuildDate>
-    <atom:link href="https://larry.wapnitsky.com/tags/starting_over/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>I&#39;m back to blogging</title>
-      <link>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/starting_over/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>I&#39;m back to blogging</title>
+      <link>/posts/2020/2020-12-15-back-to-blogging/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</guid>
-      <description>
-        &lt;img src=&#34;&#34;/&gt;
-        It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
-      </description>
+      
+      <guid>/posts/2020/2020-12-15-back-to-blogging/</guid>
+      <description>It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.</description>
+      
     </item>
+    
   </channel>
 </rss>

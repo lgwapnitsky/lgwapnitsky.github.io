@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reflection on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/tags/reflection/</link>
-    <description>Recent content in Reflection on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Reflection on Larry&#39;s Random Ramblings</title>
+    <link>/tags/reflection/</link>
+    <description>Recent content in Reflection on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 07:48:18 -0500</lastBuildDate>
-    <atom:link href="https://larry.wapnitsky.com/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>I&#39;m turning 50!!</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-01-18-im-turning-50/</link>
-      <pubDate>Sat, 18 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-01-18-im-turning-50/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/nipyata-GK1AnocVNFc-unsplash.jpg&#34;/&gt;
-        &lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;As I approach the half-century mark of life, I believe it&amp;rsquo;s time to reflect on the past, examine the present, and plan for the future.&lt;/p&gt;
-      </description>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>I&#39;m Turning 50!!</title>
+      <link>/posts/2025/2025-01-18-im-turning-50/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025/2025-01-18-im-turning-50/</guid>
+      <description>&lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;As I approach the half-century mark of life, I believe it&amp;rsquo;s time to reflect on the past, examine the present, and plan for the future.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-01-18-im-turning-50/featured.jpg" />
     </item>
+    
   </channel>
 </rss>

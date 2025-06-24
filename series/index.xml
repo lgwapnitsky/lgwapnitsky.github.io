@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Larry&#39;s Random Ramblings</title>
+    <link>/series/</link>
+    <description>Recent content in Series on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+  </channel>
+</rss>

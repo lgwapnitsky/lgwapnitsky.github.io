@@ -1,40 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snacks on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/tags/snacks/</link>
-    <description>Recent content in Snacks on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Snacks on Larry&#39;s Random Ramblings</title>
+    <link>/tags/snacks/</link>
+    <description>Recent content in Snacks on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 10:24:46 -0500</lastBuildDate>
-    <atom:link href="https://larry.wapnitsky.com/tags/snacks/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>The Chips Are On The Table/Hot Tikha Ganthia</title>
-      <link>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Sat, 16 Jan 2021 05:00:00 +0000</lastBuildDate><atom:link href="/tags/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers</title>
+      <link>/posts/2021/2021-01-16/</link>
+      <pubDate>Sat, 16 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-16/</guid>
+      <description>A few trips to different markets and I &amp;lsquo;bagged&amp;rsquo; myself a few new snacks to try out. What did I get, and how did they taste?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-16/featured.png" />
+    </item>
+    
+    <item>
+      <title>Chips of deception - Tteokbokki</title>
+      <link>/posts/2021/2021-01-03/</link>
+      <pubDate>Sun, 03 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-03/</guid>
+      <description>Looked hot&amp;hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-03/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Chips Are On The Table/Hot Tikha Ganthia</title>
+      <link>/posts/2020/2020-12-22-the-chips-are-on-the-table/</link>
       <pubDate>Tue, 22 Dec 2020 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/snacks/tikha_ganthia_bag.png&#34;/&gt;
-        &lt;p&gt;One of my favorite types of place to shop is ethnic supermarkets. I had a need for a lot of very specific ingredients for some cooking that I was going, so I schlepped to my local Indian market to grab what I needed. While wandering around, I stubmled into the snack aisle and became overwhelmed with the selection of interesting flavors. One type of flavor that always sticks out to me (and will become somewhat of a running theme) is hot and spicy. So when I saw bags upon bags of spicy snacks, I knew that I had to try something.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2020/2020-12-22-the-chips-are-on-the-table/</guid>
+      <description></description>
+      
     </item>
-    <item><title>Chips of deception - Tteokbokki</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-03-hot-chip-deception-tteokbokki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-03-hot-chip-deception-tteokbokki/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/snacks/tteokbokki_front_rotated.png&#34;/&gt;
-        Looked hot&amp;hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.
-      </description>
-    </item>
-    <item><title>Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-16-hot-snack-roundup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-16-hot-snack-roundup/</guid>
-      <description>
-        &lt;img src=&#34;img/posts/snacks/spicy_pepper_toon.png&#34;/&gt;
-        A few trips to different markets and I &amp;lsquo;bagged&amp;rsquo; myself a few new snacks to try out. What did I get, and how did they taste?
-      </description>
-    </item>
+    
   </channel>
 </rss>

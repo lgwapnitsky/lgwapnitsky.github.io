@@ -1,228 +1,279 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Random Ramblings of Larry G. Wapnitsky on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/</link>
-    <description>Recent content in The Random Ramblings of Larry G. Wapnitsky on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Larry&#39;s Random Ramblings</title>
+    <link>/</link>
+    <description>Recent content on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <atom:link href="https://larry.wapnitsky.com/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>Corned Beef and Cabbage</title>
-      <link>https://larry.wapnitsky.com/cooking/2025/corned-beef-cabbage-irish-staple-jewish-connection/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Mon, 23 Jun 2025 15:46:31 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>UPDATES UPDATES UPDATES</title>
+      <link>/posts/2025/2025-06-23-updates-updates-updates/</link>
+      <pubDate>Mon, 23 Jun 2025 15:46:31 +0000</pubDate>
+      
+      <guid>/posts/2025/2025-06-23-updates-updates-updates/</guid>
+      <description>I&amp;rsquo;m a slacker, but I&amp;rsquo;m getting better :)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-06-23-updates-updates-updates/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Corned Beef and Cabbage</title>
+      <link>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/cooking/2025/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/cooking/2025/cornedbeef1-1120x630.png&#34;/&gt;
-        &lt;p&gt;It&amp;rsquo;s that time of year when the traditional food for St. Patrick&amp;rsquo;s Day in the United States is corned beef and cabbage. But, did you know that this wonderful dish has its origin in the Jewish delis of New York City?&lt;/p&gt;
-      </description>
+      
+      <guid>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
+      <description>The Irish staple with a Jewish connection. No, really!!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png" />
     </item>
-    <item><title>I&#39;m Moroccan these recipes!</title>
-      <link>https://larry.wapnitsky.com/cooking/2025/2025-03-11-im-moroccan-these-recipes/</link>
+    
+    <item>
+      <title>I&#39;m Moroccan these recipes!</title>
+      <link>/cooking/2025-03-11-im-moroccan-these-recipes/</link>
       <pubDate>Tue, 11 Mar 2025 04:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/cooking/2025/2025-03-11-im-moroccan-these-recipes/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/cooking/2025/morocco-map-374950549.jpg&#34;/&gt;
-        &lt;p&gt;I love cuisines where the spices and aromatics meld into a warm, savory flavor profile, and the textures are just perfect from the combined ingredients. That&amp;rsquo;s one reason why I&amp;rsquo;ve become a big fan of recipes styled from African roots.&lt;/p&gt;
-      </description>
+      
+      <guid>/cooking/2025-03-11-im-moroccan-these-recipes/</guid>
+      <description>What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-11-im-moroccan-these-recipes/featured.jpg" />
     </item>
-    <item><title>Two albums by Wendy Carlos, and I want more</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
+    
+    <item>
+      <title>Two albums by Wendy Carlos, and I want more</title>
+      <link>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/wcarlos/wcarlos.png&#34;/&gt;
-        &lt;p&gt;A few years ago, I started to collect vinyl albums. It had been years since I had any semblance of a collection, but it was the COVID times, and I was bored. I picked up a decent record player, then started hunting the thrift stores and online. It was then that I found an interesting album cover, knew nothing about it, did no research, then found out from a friend that I had picked up a significant masterpiece in the history of digital music!&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
+      <description>Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png" />
     </item>
-    <item><title>Want to get updates by email?</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-03-04-want-to-get-updates-by-email/</link>
+    
+    <item>
+      <title>Want to get updates by email?</title>
+      <link>/posts/2025/2025-03-04-want-to-get-updates-by-email/</link>
       <pubDate>Tue, 04 Mar 2025 04:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-03-04-want-to-get-updates-by-email/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/email-list-thinkstock-100575171-orig.PNG&#34;/&gt;
-        &lt;p&gt;Well, I&amp;rsquo;ve figured that out, too! Either click on on the envelopes &#xA;&lt;!-- &lt;i class=&#34;fas fa-envelopes-bulk &#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fas fa-envelopes-bulk &#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 640 512&#34;&gt;&lt;use href=&#34;#fas-envelopes-bulk&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp; at the bottom of the page, or go to &lt;a aria-label=&#34;https://listmonk.wapnitsky.com&#34; href=&#34;https://listmonk.wapnitsky.com&#34; rel=&#34;external&#34;&gt;https://listmonk.wapnitsky.com&lt;/a&gt;, and sign up. Just like that, you&amp;rsquo;ll receive an update via email whenever a new post is on the site.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/2025-03-04-want-to-get-updates-by-email/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-04-want-to-get-updates-by-email/featured.png" />
     </item>
-    <item><title>RSS Feeds are now working</title>
-      <link>https://larry.wapnitsky.com/posts/2025/rss-now-working/</link>
+    
+    <item>
+      <title>RSS Feeds are now working</title>
+      <link>/posts/2025/rss-now-working/</link>
       <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/rss-now-working/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/rss-feed.jpg&#34;/&gt;
-        &lt;p&gt;After some trial and error, a bit of sweat, and actually reading some documentation, I&amp;rsquo;ve figured out how to get RSS working properly for this site with the thumbnails for each article appearing properly. What does this mean?&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/rss-now-working/</guid>
+      <description>But how do I use RSS?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/rss-now-working/featured.jpg" />
     </item>
-    <item><title>Welcome to &#34;What&#39;s Cooking?&#34;</title>
-      <link>https://larry.wapnitsky.com/cooking/2025/2025-03-01-welcome-to-whats-cooking/</link>
+    
+    <item>
+      <title>Welcome to &#34;What&#39;s Cooking?&#34;</title>
+      <link>/cooking/2025-03-01-welcome-to-whats-cooking/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/cooking/2025/2025-03-01-welcome-to-whats-cooking/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/cooking/iStock_000029849248Medium1.jpg&#34;/&gt;
-        &lt;p&gt;Over the years, I&amp;rsquo;ve been posting pictures on social media of what I&amp;rsquo;ve been cooking for me and my family. Friends have paid me many compliments, and have said they&amp;rsquo;ll miss my posts now that I&amp;rsquo;m off of social media. That&amp;rsquo;s why I&amp;rsquo;m introducing this section of my blog!&lt;/p&gt;
-      </description>
+      
+      <guid>/cooking/2025-03-01-welcome-to-whats-cooking/</guid>
+      <description>A place to find out what&amp;rsquo;s going on in my kitchen</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-01-welcome-to-whats-cooking/featured.jpg" />
     </item>
-    <item><title>The social break (update) and a farewell</title>
-      <link>https://larry.wapnitsky.com/posts/2025/social-break-farewell/</link>
+    
+    <item>
+      <title>The social break (update) and a farewell</title>
+      <link>/posts/2025/social-break-farewell/</link>
       <pubDate>Fri, 21 Feb 2025 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/social-break-farewell/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/keyboard-black-button-the-end.jpg&#34;/&gt;
-        &lt;p&gt;I&amp;rsquo;m breaking my streak so that I can post this on social media, but this is most likely my last post on Facebook.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/social-break-farewell/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/social-break-farewell/featured.jpg" />
     </item>
-    <item><title>Taking a break from social media</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-01-22-taking-a-break-from-social-media/</link>
+    
+    <item>
+      <title>Taking a break from social media</title>
+      <link>/posts/2025/2025-01-22-taking-a-break-from-social-media/</link>
       <pubDate>Tue, 21 Jan 2025 12:00:07 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-01-22-taking-a-break-from-social-media/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/Destroy-Laptop-Featured.jpg&#34;/&gt;
-        &lt;p&gt;Social media, for me, has become somewhat tiresome, causing me to once again take a break. Yes, this sounds whiny, but let me explain my thoughts as to why I&amp;rsquo;m not leaving it permanently.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/2025-01-22-taking-a-break-from-social-media/</guid>
+      <description>Social media, for me, has become somewhat tiresome, causing me to once again take a break. Yes, this sounds whiny, but let me explain my thoughts as to why I&amp;rsquo;m not leaving it permanently.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-01-22-taking-a-break-from-social-media/featured.png" />
     </item>
-    <item><title>I&#39;m turning 50!!</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-01-18-im-turning-50/</link>
-      <pubDate>Sat, 18 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-01-18-im-turning-50/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/nipyata-GK1AnocVNFc-unsplash.jpg&#34;/&gt;
-        &lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;As I approach the half-century mark of life, I believe it&amp;rsquo;s time to reflect on the past, examine the present, and plan for the future.&lt;/p&gt;
-      </description>
+    
+    <item>
+      <title>I&#39;m Turning 50!!</title>
+      <link>/posts/2025/2025-01-18-im-turning-50/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025/2025-01-18-im-turning-50/</guid>
+      <description>&lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;As I approach the half-century mark of life, I believe it&amp;rsquo;s time to reflect on the past, examine the present, and plan for the future.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-01-18-im-turning-50/featured.jpg" />
     </item>
-    <item><title>Traveling Through Mianus (Connecticut)</title>
-      <link>https://larry.wapnitsky.com/posts/2024/traveling_through_mianus/</link>
+    
+    <item>
+      <title>Traveling Through Mianus (Connecticut)</title>
+      <link>/posts/2024/traveling_through_mianus/</link>
       <pubDate>Sat, 09 Mar 2024 15:14:12 -0500</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2024/traveling_through_mianus/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/map_of_mianus_ct.jpg&#34;/&gt;
-        &lt;p&gt;I&amp;rsquo;m gonna make a HOLE lot of puns about travelling past this town in Connecticut!&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2024/traveling_through_mianus/</guid>
+      <description>I&amp;rsquo;m gonna make a HOLE lot of puns about travelling past this town in Connecticut!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2024/traveling_through_mianus/featured.jpg" />
     </item>
-    <item><title>Accountability - that&#39;s what I need</title>
-      <link>https://larry.wapnitsky.com/posts/2024/accountability/</link>
+    
+    <item>
+      <title>Accountability - that&#39;s what I need</title>
+      <link>/posts/2024/accountability/</link>
       <pubDate>Mon, 04 Mar 2024 10:59:40 -0500</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2024/accountability/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/accountability.jpg&#34;/&gt;
-        &lt;p&gt;My job keeps me very busy, and I&amp;rsquo;ve found that I&amp;rsquo;ve been slacking in things that affect both my mental and physical health. I know what I need to do, but I need a kick in the ass from people, hence the need for accountability.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2024/accountability/</guid>
+      <description>&lt;p&gt;My job keeps me very busy, and I&amp;rsquo;ve found that I&amp;rsquo;ve been slacking in things that affect both my mental and physical health. I know what I need to do, but I need a kick in the ass from people, hence the need for accountability.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2024/accountability/featured.jpg" />
     </item>
-    <item><title>New Ideas</title>
-      <link>https://larry.wapnitsky.com/posts/2023/new_ideas/</link>
+    
+    <item>
+      <title>New Ideas</title>
+      <link>/posts/2023/new-ideas/</link>
       <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2023/new_ideas/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/business-ideas.jpeg&#34;/&gt;
-        
-      </description>
+      
+      <guid>/posts/2023/new-ideas/</guid>
+      <description>I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/new-ideas/featured.jpeg" />
     </item>
-    <item><title>Blogging - another attempt</title>
-      <link>https://larry.wapnitsky.com/posts/2023/blogging---another-attempt/</link>
+    
+    <item>
+      <title>Blogging - another attempt</title>
+      <link>/posts/2023/blogging-another-attempt/</link>
       <pubDate>Tue, 28 Nov 2023 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2023/blogging---another-attempt/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/writers-block.jpg&#34;/&gt;
-        &lt;p&gt;Yes, again, trying to blog. I changed the platform I&amp;rsquo;m using, and was able to copy over the old posts, but the dates are incorrect, and images are currently missing. That&amp;rsquo;s a plan for the future. In the meantime, I&amp;rsquo;m REALLY going to try my best&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2023/blogging-another-attempt/</guid>
+      <description>One more try</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/blogging-another-attempt/featured.jpg" />
     </item>
-    <item><title>The Chips Are On The Table/Hot Tikha Ganthia</title>
-      <link>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</link>
+    
+    <item>
+      <title>Shouting into the void?</title>
+      <link>/posts/2022/2022-03-11-first-post-long-time/</link>
+      <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022/2022-03-11-first-post-long-time/</guid>
+      <description>It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2022/2022-03-11-first-post-long-time/featured.png" />
+    </item>
+    
+    <item>
+      <title>Why have I been so quiet?</title>
+      <link>/posts/2021/2021-04-28/</link>
+      <pubDate>Wed, 28 Apr 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-04-28/</guid>
+      <description>I know I said I&amp;rsquo;d post more, but there&amp;rsquo;s been a lot going on since the last post&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-04-28/featured.png" />
+    </item>
+    
+    <item>
+      <title>The slacker&#39;s health update</title>
+      <link>/posts/2021/2021-03-05/</link>
+      <pubDate>Fri, 05 Mar 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-03-05/</guid>
+      <description>I haven&amp;rsquo;t posted in month, even though I said I&amp;rsquo;d be more on the ball. Why? Keep reading&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-03-05/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>The Road To Fitness</title>
+      <link>/posts/2021/2021-01-22/</link>
+      <pubDate>Fri, 22 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-22/</guid>
+      <description>The struggle bus has gotten back on the road, and I&amp;rsquo;m back in the game to work on my fitness levels - both physical and mental. What&amp;rsquo;s changed?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-22/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers</title>
+      <link>/posts/2021/2021-01-16/</link>
+      <pubDate>Sat, 16 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-16/</guid>
+      <description>A few trips to different markets and I &amp;lsquo;bagged&amp;rsquo; myself a few new snacks to try out. What did I get, and how did they taste?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-16/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pause and Effect</title>
+      <link>/posts/2021/2021-01-14/</link>
+      <pubDate>Thu, 14 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-14/</guid>
+      <description>What happened in the first 2 weeks of the year that cause me to temporarily pause my workouts? While partially physical, most of it was mental. Here&amp;rsquo;s the next steps&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-14/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Weight Is Over...By A Lot</title>
+      <link>/posts/2021/2021-01-04/</link>
+      <pubDate>Mon, 04 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-04/</guid>
+      <description>Restarting the fitness journey, I decided to step on the scale this morning. What I saw was not what I wanted, so it&amp;rsquo;s time to aim for my goals.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-04/featured.png" />
+    </item>
+    
+    <item>
+      <title>Chips of deception - Tteokbokki</title>
+      <link>/posts/2021/2021-01-03/</link>
+      <pubDate>Sun, 03 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-03/</guid>
+      <description>Looked hot&amp;hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-03/featured.png" />
+    </item>
+    
+    <item>
+      <title>A Very Happy New Year To You</title>
+      <link>/posts/2021/2021-01-01/</link>
+      <pubDate>Fri, 01 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/2021-01-01/</guid>
+      <description>What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-01/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Chips Are On The Table/Hot Tikha Ganthia</title>
+      <link>/posts/2020/2020-12-22-the-chips-are-on-the-table/</link>
       <pubDate>Tue, 22 Dec 2020 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/snacks/tikha_ganthia_bag.png&#34;/&gt;
-        &lt;p&gt;One of my favorite types of place to shop is ethnic supermarkets. I had a need for a lot of very specific ingredients for some cooking that I was going, so I schlepped to my local Indian market to grab what I needed. While wandering around, I stubmled into the snack aisle and became overwhelmed with the selection of interesting flavors. One type of flavor that always sticks out to me (and will become somewhat of a running theme) is hot and spicy. So when I saw bags upon bags of spicy snacks, I knew that I had to try something.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2020/2020-12-22-the-chips-are-on-the-table/</guid>
+      <description></description>
+      
     </item>
-    <item><title>I&#39;m back to blogging</title>
-      <link>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</link>
+    
+    <item>
+      <title>I&#39;m back to blogging</title>
+      <link>/posts/2020/2020-12-15-back-to-blogging/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2020/2020-12-15-back-to-blogging/</guid>
-      <description>
-        &lt;img src=&#34;&#34;/&gt;
-        It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
-      </description>
+      
+      <guid>/posts/2020/2020-12-15-back-to-blogging/</guid>
+      <description>It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.</description>
+      
     </item>
-    <item><title>A Very Happy New Year To You</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</link>
+    
+    <item>
+      <title>Who is Larry?</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-01-happy-new-year/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/happy-new-year-2021-new-820x554.png&#34;/&gt;
-        What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
-      </description>
+      
+      <guid>/about/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/about/featured.jpg" />
     </item>
-    <item><title>Chips of deception - Tteokbokki</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-03-hot-chip-deception-tteokbokki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-03-hot-chip-deception-tteokbokki/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/snacks/tteokbokki_front_rotated.png&#34;/&gt;
-        Looked hot&amp;hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.
-      </description>
-    </item>
-    <item><title>Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-16-hot-snack-roundup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-16-hot-snack-roundup/</guid>
-      <description>
-        &lt;img src=&#34;img/posts/snacks/spicy_pepper_toon.png&#34;/&gt;
-        A few trips to different markets and I &amp;lsquo;bagged&amp;rsquo; myself a few new snacks to try out. What did I get, and how did they taste?
-      </description>
-    </item>
-    <item><title>Pause and Effect</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-14-pause-and-effect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-14-pause-and-effect/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/pause_button.png&#34;/&gt;
-        What happened in the first 2 weeks of the year that cause me to temporarily pause my workouts? While partially physical, most of it was mental. Here&amp;rsquo;s the next steps&amp;hellip;
-      </description>
-    </item>
-    <item><title>Shouting into the void?</title>
-      <link>https://larry.wapnitsky.com/posts/2022/2022-03-11-first-post-long-time/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2022/2022-03-11-first-post-long-time/</guid>
-      <description>
-        &lt;img src=&#34;&#34;/&gt;
-        It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
-      </description>
-    </item>
-    <item><title>The Road To Fitness</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-22-road-to-fitness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-22-road-to-fitness/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/health/pothole_road.png&#34;/&gt;
-        The struggle bus has gotten back on the road, and I&amp;rsquo;m back in the game to work on my fitness levels - both physical and mental. What&amp;rsquo;s changed?
-      </description>
-    </item>
-    <item><title>The slacker&#39;s health update</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-03-05-the-slackers-health-update/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-03-05-the-slackers-health-update/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/slacker.jpg&#34;/&gt;
-        I haven&amp;rsquo;t posted in month, even though I said I&amp;rsquo;d be more on the ball. Why? Keep reading&amp;hellip;
-      </description>
-    </item>
-    <item><title>The Weight Is Over...By A Lot</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-01-04-the-weight-is-over/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-04-the-weight-is-over/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/health/scale.png&#34;/&gt;
-        Restarting the fitness journey, I decided to step on the scale this morning. What I saw was not what I wanted, so it&amp;rsquo;s time to aim for my goals.
-      </description>
-    </item>
-    <item><title>Why have I been so quiet?</title>
-      <link>https://larry.wapnitsky.com/posts/2021/2021-04-28-why-so-quiet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2021/2021-04-28-why-so-quiet/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/neck_mri.png&#34;/&gt;
-        I know I said I&amp;rsquo;d post more, but there&amp;rsquo;s been a lot going on since the last post&amp;hellip;
-      </description>
-    </item>
+    
   </channel>
 </rss>

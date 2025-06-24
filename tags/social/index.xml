@@ -1,40 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/tags/social/</link>
-    <description>Recent content in Social on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Social on Larry&#39;s Random Ramblings</title>
+    <link>/tags/social/</link>
+    <description>Recent content in Social on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 10:48:54 -0500</lastBuildDate>
-    <atom:link href="https://larry.wapnitsky.com/tags/social/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>RSS Feeds are now working</title>
-      <link>https://larry.wapnitsky.com/posts/2025/rss-now-working/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Sat, 01 Mar 2025 05:00:00 +0000</lastBuildDate><atom:link href="/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>RSS Feeds are now working</title>
+      <link>/posts/2025/rss-now-working/</link>
       <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/rss-now-working/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/rss-feed.jpg&#34;/&gt;
-        &lt;p&gt;After some trial and error, a bit of sweat, and actually reading some documentation, I&amp;rsquo;ve figured out how to get RSS working properly for this site with the thumbnails for each article appearing properly. What does this mean?&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/rss-now-working/</guid>
+      <description>But how do I use RSS?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/rss-now-working/featured.jpg" />
     </item>
-    <item><title>The social break (update) and a farewell</title>
-      <link>https://larry.wapnitsky.com/posts/2025/social-break-farewell/</link>
+    
+    <item>
+      <title>The social break (update) and a farewell</title>
+      <link>/posts/2025/social-break-farewell/</link>
       <pubDate>Fri, 21 Feb 2025 05:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/social-break-farewell/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/keyboard-black-button-the-end.jpg&#34;/&gt;
-        &lt;p&gt;I&amp;rsquo;m breaking my streak so that I can post this on social media, but this is most likely my last post on Facebook.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/social-break-farewell/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/social-break-farewell/featured.jpg" />
     </item>
-    <item><title>Taking a break from social media</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-01-22-taking-a-break-from-social-media/</link>
+    
+    <item>
+      <title>Taking a break from social media</title>
+      <link>/posts/2025/2025-01-22-taking-a-break-from-social-media/</link>
       <pubDate>Tue, 21 Jan 2025 12:00:07 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-01-22-taking-a-break-from-social-media/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/Destroy-Laptop-Featured.jpg&#34;/&gt;
-        &lt;p&gt;Social media, for me, has become somewhat tiresome, causing me to once again take a break. Yes, this sounds whiny, but let me explain my thoughts as to why I&amp;rsquo;m not leaving it permanently.&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/2025-01-22-taking-a-break-from-social-media/</guid>
+      <description>Social media, for me, has become somewhat tiresome, causing me to once again take a break. Yes, this sounds whiny, but let me explain my thoughts as to why I&amp;rsquo;m not leaving it permanently.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-01-22-taking-a-break-from-social-media/featured.png" />
     </item>
+    
   </channel>
 </rss>

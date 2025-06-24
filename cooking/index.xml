@@ -1,39 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What&#39;s Cooking? on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/cooking/</link>
-    <description>Recent content in What&#39;s Cooking? on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>Cookings on Larry&#39;s Random Ramblings</title>
+    <link>/cooking/</link>
+    <description>Recent content in Cookings on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <atom:link href="https://larry.wapnitsky.com/cooking/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>Corned Beef and Cabbage</title>
-      <link>https://larry.wapnitsky.com/cooking/2025/corned-beef-cabbage-irish-staple-jewish-connection/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Mon, 17 Mar 2025 11:50:15 +0000</lastBuildDate><atom:link href="/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>Corned Beef and Cabbage</title>
+      <link>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/cooking/2025/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/cooking/2025/cornedbeef1-1120x630.png&#34;/&gt;
-        &lt;p&gt;It&amp;rsquo;s that time of year when the traditional food for St. Patrick&amp;rsquo;s Day in the United States is corned beef and cabbage. But, did you know that this wonderful dish has its origin in the Jewish delis of New York City?&lt;/p&gt;
-      </description>
+      
+      <guid>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
+      <description>The Irish staple with a Jewish connection. No, really!!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png" />
     </item>
-    <item><title>I&#39;m Moroccan these recipes!</title>
-      <link>https://larry.wapnitsky.com/cooking/2025/2025-03-11-im-moroccan-these-recipes/</link>
+    
+    <item>
+      <title>I&#39;m Moroccan these recipes!</title>
+      <link>/cooking/2025-03-11-im-moroccan-these-recipes/</link>
       <pubDate>Tue, 11 Mar 2025 04:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/cooking/2025/2025-03-11-im-moroccan-these-recipes/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/cooking/2025/morocco-map-374950549.jpg&#34;/&gt;
-        &lt;p&gt;I love cuisines where the spices and aromatics meld into a warm, savory flavor profile, and the textures are just perfect from the combined ingredients. That&amp;rsquo;s one reason why I&amp;rsquo;ve become a big fan of recipes styled from African roots.&lt;/p&gt;
-      </description>
+      
+      <guid>/cooking/2025-03-11-im-moroccan-these-recipes/</guid>
+      <description>What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-11-im-moroccan-these-recipes/featured.jpg" />
     </item>
-    <item><title>Welcome to &#34;What&#39;s Cooking?&#34;</title>
-      <link>https://larry.wapnitsky.com/cooking/2025/2025-03-01-welcome-to-whats-cooking/</link>
+    
+    <item>
+      <title>Welcome to &#34;What&#39;s Cooking?&#34;</title>
+      <link>/cooking/2025-03-01-welcome-to-whats-cooking/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/cooking/2025/2025-03-01-welcome-to-whats-cooking/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/cooking/iStock_000029849248Medium1.jpg&#34;/&gt;
-        &lt;p&gt;Over the years, I&amp;rsquo;ve been posting pictures on social media of what I&amp;rsquo;ve been cooking for me and my family. Friends have paid me many compliments, and have said they&amp;rsquo;ll miss my posts now that I&amp;rsquo;m off of social media. That&amp;rsquo;s why I&amp;rsquo;m introducing this section of my blog!&lt;/p&gt;
-      </description>
+      
+      <guid>/cooking/2025-03-01-welcome-to-whats-cooking/</guid>
+      <description>A place to find out what&amp;rsquo;s going on in my kitchen</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-01-welcome-to-whats-cooking/featured.jpg" />
     </item>
+    
   </channel>
 </rss>

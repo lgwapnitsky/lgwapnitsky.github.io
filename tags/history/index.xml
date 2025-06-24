@@ -1,31 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>History on LGW&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/tags/history/</link>
-    <description>Recent content in History on LGW&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <title>History on Larry&#39;s Random Ramblings</title>
+    <link>/tags/history/</link>
+    <description>Recent content in History on Larry&#39;s Random Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022 - 2025 Larry G. Wapnitsky.</copyright>
-    <lastBuildDate>Mon, 17 Mar 2025 10:46:41 -0400</lastBuildDate>
-    <atom:link href="https://larry.wapnitsky.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
-    <item><title>Corned Beef and Cabbage</title>
-      <link>https://larry.wapnitsky.com/cooking/2025/corned-beef-cabbage-irish-staple-jewish-connection/</link>
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Mon, 17 Mar 2025 11:50:15 +0000</lastBuildDate><atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>LGWapnitsky</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>Corned Beef and Cabbage</title>
+      <link>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/cooking/2025/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/cooking/2025/cornedbeef1-1120x630.png&#34;/&gt;
-        &lt;p&gt;It&amp;rsquo;s that time of year when the traditional food for St. Patrick&amp;rsquo;s Day in the United States is corned beef and cabbage. But, did you know that this wonderful dish has its origin in the Jewish delis of New York City?&lt;/p&gt;
-      </description>
+      
+      <guid>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
+      <description>The Irish staple with a Jewish connection. No, really!!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png" />
     </item>
-    <item><title>Two albums by Wendy Carlos, and I want more</title>
-      <link>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
+    
+    <item>
+      <title>Two albums by Wendy Carlos, and I want more</title>
+      <link>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
-      <guid>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
-      <description>
-        &lt;img src=&#34;https://larry.wapnitsky.com/img/posts/2025/wcarlos/wcarlos.png&#34;/&gt;
-        &lt;p&gt;A few years ago, I started to collect vinyl albums. It had been years since I had any semblance of a collection, but it was the COVID times, and I was bored. I picked up a decent record player, then started hunting the thrift stores and online. It was then that I found an interesting album cover, knew nothing about it, did no research, then found out from a friend that I had picked up a significant masterpiece in the history of digital music!&lt;/p&gt;
-      </description>
+      
+      <guid>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
+      <description>Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png" />
     </item>
+    
   </channel>
 </rss>
