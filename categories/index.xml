@@ -14,25 +14,27 @@
     </follow_challenge>
     
     
-    <item>
-      <title>Cooking</title>
+    <item><title>Cooking</title>
       <link>/categories/cooking/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
       
       <guid>/categories/cooking/</guid>
       
-	  <description>
-      </item>
+      <description> &lt;img src=&#34;&#34;/&gt;&lt;br&gt;
+	
+	</description>
+    </item>
     
-    <item>
-      <title>Music</title>
+    <item><title>Music</title>
       <link>/categories/music/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
       
       <guid>/categories/music/</guid>
       
-	  <description>
-      </item>
+      <description> &lt;img src=&#34;&#34;/&gt;&lt;br&gt;
+	
+	</description>
+    </item>
     
   </channel>
 </rss>

@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>Shouting into the void?</title>
+    <item><title>Shouting into the void?</title>
       <link>/posts/2022/2022-03-11-first-post-long-time/</link>
       <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
       
       <guid>/posts/2022/2022-03-11-first-post-long-time/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2022/2022-03-11-first-post-long-time/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2022/2022-03-11-first-post-long-time/featured.png" />
+	<description> &lt;img src=&#34;/posts/2022/2022-03-11-first-post-long-time/featured.png&#34;/&gt;&lt;br&gt;
+	It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
+	</description>
+    </item>
     
   </channel>
 </rss>

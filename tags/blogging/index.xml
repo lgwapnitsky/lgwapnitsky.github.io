@@ -14,65 +14,53 @@
     </follow_challenge>
     
     
-    <item>
-      <title>New Ideas</title>
+    <item><title>New Ideas</title>
       <link>/posts/2023/new-ideas/</link>
       <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
       
       <guid>/posts/2023/new-ideas/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2023/new-ideas/featured.jpeg&#34;/&gt;&lt;br&gt;
-      
-	    I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/new-ideas/featured.jpeg" />
+	<description> &lt;img src=&#34;/posts/2023/new-ideas/featured.jpeg&#34;/&gt;&lt;br&gt;
+	I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
+	</description>
+    </item>
     
-    <item>
-      <title>Blogging - another attempt</title>
+    <item><title>Blogging - another attempt</title>
       <link>/posts/2023/blogging-another-attempt/</link>
       <pubDate>Tue, 28 Nov 2023 05:00:00 +0000</pubDate>
       
       <guid>/posts/2023/blogging-another-attempt/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2023/blogging-another-attempt/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    One more try
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/blogging-another-attempt/featured.png" />
+	<description> &lt;img src=&#34;/posts/2023/blogging-another-attempt/featured.png&#34;/&gt;&lt;br&gt;
+	One more try
+	</description>
+    </item>
     
-    <item>
-      <title>Shouting into the void?</title>
+    <item><title>Shouting into the void?</title>
       <link>/posts/2022/2022-03-11-first-post-long-time/</link>
       <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
       
       <guid>/posts/2022/2022-03-11-first-post-long-time/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2022/2022-03-11-first-post-long-time/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2022/2022-03-11-first-post-long-time/featured.png" />
+	<description> &lt;img src=&#34;/posts/2022/2022-03-11-first-post-long-time/featured.png&#34;/&gt;&lt;br&gt;
+	It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
+	</description>
+    </item>
     
-    <item>
-      <title>I&#39;m back to blogging</title>
+    <item><title>I&#39;m back to blogging</title>
       <link>/posts/2020/2020-12-15-back-to-blogging/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/2020/2020-12-15-back-to-blogging/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2020/2020-12-15-back-to-blogging/featured.png" />
+	<description> &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging/featured.png&#34;/&gt;&lt;br&gt;
+	It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
+	</description>
+    </item>
     
   </channel>
 </rss>

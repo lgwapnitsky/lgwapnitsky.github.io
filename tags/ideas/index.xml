@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>New Ideas</title>
+    <item><title>New Ideas</title>
       <link>/posts/2023/new-ideas/</link>
       <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
       
       <guid>/posts/2023/new-ideas/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2023/new-ideas/featured.jpeg&#34;/&gt;&lt;br&gt;
-      
-	    I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/new-ideas/featured.jpeg" />
+	<description> &lt;img src=&#34;/posts/2023/new-ideas/featured.jpeg&#34;/&gt;&lt;br&gt;
+	I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
+	</description>
+    </item>
     
   </channel>
 </rss>

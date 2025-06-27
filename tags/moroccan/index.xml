@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>I&#39;m Moroccan these recipes!</title>
+    <item><title>I&#39;m Moroccan these recipes!</title>
       <link>/cooking/2025-03-11-im-moroccan-these-recipes/</link>
       <pubDate>Tue, 11 Mar 2025 04:00:00 +0000</pubDate>
       
       <guid>/cooking/2025-03-11-im-moroccan-these-recipes/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/cooking/2025-03-11-im-moroccan-these-recipes/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-11-im-moroccan-these-recipes/featured.png" />
+	<description> &lt;img src=&#34;/cooking/2025-03-11-im-moroccan-these-recipes/featured.png&#34;/&gt;&lt;br&gt;
+	What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine
+	</description>
+    </item>
     
   </channel>
 </rss>

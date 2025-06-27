@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>I&#39;m back to blogging</title>
+    <item><title>I&#39;m back to blogging</title>
       <link>/posts/2020/2020-12-15-back-to-blogging/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/2020/2020-12-15-back-to-blogging/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2020/2020-12-15-back-to-blogging/featured.png" />
+	<description> &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging/featured.png&#34;/&gt;&lt;br&gt;
+	It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
+	</description>
+    </item>
     
   </channel>
 </rss>

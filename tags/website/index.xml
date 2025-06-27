@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>UPDATES UPDATES UPDATES</title>
+    <item><title>UPDATES UPDATES UPDATES</title>
       <link>/posts/2025/2025-06-23-updates-updates-updates/</link>
       <pubDate>Mon, 23 Jun 2025 15:46:31 +0000</pubDate>
       
       <guid>/posts/2025/2025-06-23-updates-updates-updates/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2025/2025-06-23-updates-updates-updates/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    I&amp;rsquo;m a slacker, but I&amp;rsquo;m getting better :)
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-06-23-updates-updates-updates/featured.png" />
+	<description> &lt;img src=&#34;/posts/2025/2025-06-23-updates-updates-updates/featured.png&#34;/&gt;&lt;br&gt;
+	I&amp;rsquo;m a slacker, but I&amp;rsquo;m getting better :)
+	</description>
+    </item>
     
   </channel>
 </rss>

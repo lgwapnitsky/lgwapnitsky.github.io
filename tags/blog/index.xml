@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>Want to get updates by email?</title>
+    <item><title>Want to get updates by email?</title>
       <link>/posts/2025/2025-03-04-want-to-get-updates-by-email/</link>
       <pubDate>Tue, 04 Mar 2025 04:00:00 +0000</pubDate>
       
       <guid>/posts/2025/2025-03-04-want-to-get-updates-by-email/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2025/2025-03-04-want-to-get-updates-by-email/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-04-want-to-get-updates-by-email/featured.png" />
+	<description> &lt;img src=&#34;/posts/2025/2025-03-04-want-to-get-updates-by-email/featured.png&#34;/&gt;&lt;br&gt;
+	
+	</description>
+    </item>
     
   </channel>
 </rss>

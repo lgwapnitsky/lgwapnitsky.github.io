@@ -14,50 +14,41 @@
     </follow_challenge>
     
     
-    <item>
-      <title>Corned Beef and Cabbage</title>
+    <item><title>Corned Beef and Cabbage</title>
       <link>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
       
       <guid>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    The Irish staple with a Jewish connection. No, really!!
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png" />
+	<description> &lt;img src=&#34;/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png&#34;/&gt;&lt;br&gt;
+	The Irish staple with a Jewish connection. No, really!!
+	</description>
+    </item>
     
-    <item>
-      <title>I&#39;m Moroccan these recipes!</title>
+    <item><title>I&#39;m Moroccan these recipes!</title>
       <link>/cooking/2025-03-11-im-moroccan-these-recipes/</link>
       <pubDate>Tue, 11 Mar 2025 04:00:00 +0000</pubDate>
       
       <guid>/cooking/2025-03-11-im-moroccan-these-recipes/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/cooking/2025-03-11-im-moroccan-these-recipes/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-11-im-moroccan-these-recipes/featured.png" />
+	<description> &lt;img src=&#34;/cooking/2025-03-11-im-moroccan-these-recipes/featured.png&#34;/&gt;&lt;br&gt;
+	What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine
+	</description>
+    </item>
     
-    <item>
-      <title>Welcome to &#34;What&#39;s Cooking?&#34;</title>
+    <item><title>Welcome to &#34;What&#39;s Cooking?&#34;</title>
       <link>/cooking/2025-03-01-welcome-to-whats-cooking/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>/cooking/2025-03-01-welcome-to-whats-cooking/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/cooking/2025-03-01-welcome-to-whats-cooking/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    A place to find out what&amp;rsquo;s going on in my kitchen
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/2025-03-01-welcome-to-whats-cooking/featured.png" />
+	<description> &lt;img src=&#34;/cooking/2025-03-01-welcome-to-whats-cooking/featured.png&#34;/&gt;&lt;br&gt;
+	A place to find out what&amp;rsquo;s going on in my kitchen
+	</description>
+    </item>
     
   </channel>
 </rss>

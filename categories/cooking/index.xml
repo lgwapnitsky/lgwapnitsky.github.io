@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>Corned Beef and Cabbage</title>
+    <item><title>Corned Beef and Cabbage</title>
       <link>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
       
       <guid>/cooking/corned-beef-cabbage-irish-staple-jewish-connection/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    The Irish staple with a Jewish connection. No, really!!
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png" />
+	<description> &lt;img src=&#34;/cooking/corned-beef-cabbage-irish-staple-jewish-connection/featured.png&#34;/&gt;&lt;br&gt;
+	The Irish staple with a Jewish connection. No, really!!
+	</description>
+    </item>
     
   </channel>
 </rss>

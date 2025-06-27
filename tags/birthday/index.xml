@@ -14,21 +14,18 @@
     </follow_challenge>
     
     
-    <item>
-      <title>I&#39;m Turning 50!!</title>
+    <item><title>I&#39;m Turning 50!!</title>
       <link>/posts/2025/2025-01-18-im-turning-50/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/2025/2025-01-18-im-turning-50/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2025/2025-01-18-im-turning-50/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    &lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-01-18-im-turning-50/featured.png" />
+	<description> &lt;img src=&#34;/posts/2025/2025-01-18-im-turning-50/featured.png&#34;/&gt;&lt;br&gt;
+	&lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;As I approach the half-century mark of life, I believe it&amp;rsquo;s time to reflect on the past, examine the present, and plan for the future.&lt;/p&gt;
-	  </description></item>
+	</description>
+    </item>
     
   </channel>
 </rss>

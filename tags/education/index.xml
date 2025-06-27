@@ -14,20 +14,17 @@
     </follow_challenge>
     
     
-    <item>
-      <title>A Very Happy New Year To You</title>
+    <item><title>A Very Happy New Year To You</title>
       <link>/posts/2021/2021-01-01/</link>
       <pubDate>Fri, 01 Jan 2021 05:00:00 +0000</pubDate>
       
       <guid>/posts/2021/2021-01-01/</guid>
       
-	  <description>
-      
-      
-	    &lt;img src=&#34;/posts/2021/2021-01-01/featured.png&#34;/&gt;&lt;br&gt;
-      
-	    What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
-	  </description></item>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-01/featured.png" />
+	<description> &lt;img src=&#34;/posts/2021/2021-01-01/featured.png&#34;/&gt;&lt;br&gt;
+	What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
+	</description>
+    </item>
     
   </channel>
 </rss>
