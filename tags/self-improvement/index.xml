@@ -4,29 +4,45 @@
     <title>Self-Improvement on Larry&#39;s Random Ramblings</title>
     <link>/tags/self-improvement/</link>
     <description>Recent content in Self-Improvement on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2024 10:59:40 -0500</lastBuildDate>
-    <atom:link href="/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Mon, 04 Mar 2024 10:59:40 -0500</lastBuildDate><atom:link href="/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>158960967855996928</userId>
+    </follow_challenge>
+    
+    
     <item>
       <title>Accountability - that&#39;s what I need</title>
       <link>/posts/2024/accountability/</link>
       <pubDate>Mon, 04 Mar 2024 10:59:40 -0500</pubDate>
+      
       <guid>/posts/2024/accountability/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2024/accountability//featured.png&#34;/&gt;
-        &lt;p&gt;My job keeps me very busy, and I&amp;rsquo;ve found that I&amp;rsquo;ve been slacking in things that affect both my mental and physical health. I know what I need to do, but I need a kick in the ass from people, hence the need for accountability.&lt;/p&gt;
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2024/accountability/featured.png&#34;/&gt;
+      
+	    <p>My job keeps me very busy, and I&rsquo;ve found that I&rsquo;ve been slacking in things that affect both my mental and physical health. I know what I need to do, but I need a kick in the ass from people, hence the need for accountability.</p>
+	  </description></item>
+    
     <item>
       <title>A Very Happy New Year To You</title>
       <link>/posts/2021/2021-01-01/</link>
       <pubDate>Fri, 01 Jan 2021 05:00:00 +0000</pubDate>
+      
       <guid>/posts/2021/2021-01-01/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2021/2021-01-01//featured.png&#34;/&gt;
-        What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2021/2021-01-01/featured.png&#34;/&gt;
+      
+	    What&rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
+	  </description></item>
+    
   </channel>
 </rss>

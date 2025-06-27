@@ -4,9 +4,325 @@
     <title>Tags on Larry&#39;s Random Ramblings</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Mon, 23 Jun 2025 15:46:31 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>158960967855996928</userId>
+    </follow_challenge>
+    
+    
+    <item>
+      <title>Ham Radio</title>
+      <link>/tags/ham-radio/</link>
+      <pubDate>Mon, 23 Jun 2025 15:46:31 +0000</pubDate>
+      
+      <guid>/tags/ham-radio/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Updates</title>
+      <link>/tags/updates/</link>
+      <pubDate>Mon, 23 Jun 2025 15:46:31 +0000</pubDate>
+      
+      <guid>/tags/updates/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Mon, 23 Jun 2025 15:46:31 +0000</pubDate>
+      
+      <guid>/tags/website/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Cooking</title>
+      <link>/tags/cooking/</link>
+      <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
+      
+      <guid>/tags/cooking/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>History</title>
+      <link>/tags/history/</link>
+      <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
+      
+      <guid>/tags/history/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Tradition</title>
+      <link>/tags/tradition/</link>
+      <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
+      
+      <guid>/tags/tradition/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Moroccan</title>
+      <link>/tags/moroccan/</link>
+      <pubDate>Tue, 11 Mar 2025 04:00:00 +0000</pubDate>
+      
+      <guid>/tags/moroccan/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/tags/music/</link>
+      <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
+      
+      <guid>/tags/music/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Synthesizer</title>
+      <link>/tags/synthesizer/</link>
+      <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
+      
+      <guid>/tags/synthesizer/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Vinyl</title>
+      <link>/tags/vinyl/</link>
+      <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
+      
+      <guid>/tags/vinyl/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Tue, 04 Mar 2025 04:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>/tags/communication/</link>
+      <pubDate>Tue, 04 Mar 2025 04:00:00 +0000</pubDate>
+      
+      <guid>/tags/communication/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Email</title>
+      <link>/tags/email/</link>
+      <pubDate>Tue, 04 Mar 2025 04:00:00 +0000</pubDate>
+      
+      <guid>/tags/email/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Social</title>
+      <link>/tags/social/</link>
+      <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/social/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>/tags/technology/</link>
+      <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/technology/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>/tags/mental-health/</link>
+      <pubDate>Fri, 21 Feb 2025 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/mental-health/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Birthday</title>
+      <link>/tags/birthday/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/birthday/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Reflection</title>
+      <link>/tags/reflection/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reflection/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Fitness</title>
+      <link>/tags/fitness/</link>
+      <pubDate>Mon, 04 Mar 2024 10:59:40 -0500</pubDate>
+      
+      <guid>/tags/fitness/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Self-Improvement</title>
+      <link>/tags/self-improvement/</link>
+      <pubDate>Mon, 04 Mar 2024 10:59:40 -0500</pubDate>
+      
+      <guid>/tags/self-improvement/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>/tags/blogging/</link>
+      <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
+      
+      <guid>/tags/blogging/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>/tags/ideas/</link>
+      <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
+      
+      <guid>/tags/ideas/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Shouting Into the Void</title>
+      <link>/tags/shouting-into-the-void/</link>
+      <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/shouting-into-the-void/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Update</title>
+      <link>/tags/update/</link>
+      <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/update/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Health</title>
+      <link>/tags/health/</link>
+      <pubDate>Wed, 28 Apr 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/health/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Chips</title>
+      <link>/tags/chips/</link>
+      <pubDate>Sat, 16 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/chips/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Food</title>
+      <link>/tags/food/</link>
+      <pubDate>Sat, 16 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/food/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Snacks</title>
+      <link>/tags/snacks/</link>
+      <pubDate>Sat, 16 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/snacks/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/tags/education/</link>
+      <pubDate>Fri, 01 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/education/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>New Year</title>
+      <link>/tags/new-year/</link>
+      <pubDate>Fri, 01 Jan 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/new-year/</guid>
+      
+	  <description>
+      </item>
+    
+    <item>
+      <title>Starting_over</title>
+      <link>/tags/starting_over/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/starting_over/</guid>
+      
+	  <description>
+      </item>
+    
   </channel>
 </rss>

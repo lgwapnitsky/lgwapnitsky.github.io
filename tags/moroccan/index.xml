@@ -4,19 +4,30 @@
     <title>Moroccan on Larry&#39;s Random Ramblings</title>
     <link>/tags/moroccan/</link>
     <description>Recent content in Moroccan on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Mar 2025 12:28:40 +0000</lastBuildDate>
-    <atom:link href="/tags/moroccan/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Tue, 11 Mar 2025 04:00:00 +0000</lastBuildDate><atom:link href="/tags/moroccan/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>158960967855996928</userId>
+    </follow_challenge>
+    
+    
     <item>
       <title>I&#39;m Moroccan these recipes!</title>
       <link>/cooking/2025-03-11-im-moroccan-these-recipes/</link>
       <pubDate>Tue, 11 Mar 2025 04:00:00 +0000</pubDate>
+      
       <guid>/cooking/2025-03-11-im-moroccan-these-recipes/</guid>
-      <description>
-        &lt;img src=&#34;/cooking/2025-03-11-im-moroccan-these-recipes//featured.png&#34;/&gt;
-        What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/cooking/2025-03-11-im-moroccan-these-recipes/featured.png&#34;/&gt;
+      
+	    What started off as a simple dinner expanded into pure delicousness of North African-styled cuisine
+	  </description></item>
+    
   </channel>
 </rss>

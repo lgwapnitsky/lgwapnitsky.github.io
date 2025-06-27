@@ -4,19 +4,30 @@
     <title>Starting_over on Larry&#39;s Random Ramblings</title>
     <link>/tags/starting_over/</link>
     <description>Recent content in Starting_over on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/starting_over/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/starting_over/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>158960967855996928</userId>
+    </follow_challenge>
+    
+    
     <item>
       <title>I&#39;m back to blogging</title>
       <link>/posts/2020/2020-12-15-back-to-blogging/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
       <guid>/posts/2020/2020-12-15-back-to-blogging/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging//featured.png&#34;/&gt;
-        It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging/featured.png&#34;/&gt;
+      
+	    It&rsquo;s been a while since I&rsquo;ve worked on my blog, but there&rsquo;s no better time than now to refresh the way it looks and to start writing again.
+	  </description></item>
+    
   </channel>
 </rss>

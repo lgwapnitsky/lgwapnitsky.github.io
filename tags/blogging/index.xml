@@ -4,49 +4,75 @@
     <title>Blogging on Larry&#39;s Random Ramblings</title>
     <link>/tags/blogging/</link>
     <description>Recent content in Blogging on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Dec 2023 09:35:00 -0500</lastBuildDate>
-    <atom:link href="/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Mon, 04 Dec 2023 05:05:08 -0500</lastBuildDate><atom:link href="/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>158960967855996928</userId>
+    </follow_challenge>
+    
+    
     <item>
       <title>New Ideas</title>
       <link>/posts/2023/new-ideas/</link>
       <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
+      
       <guid>/posts/2023/new-ideas/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2023/new-ideas//featured.png&#34;/&gt;
-        I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2023/new-ideas/featured.jpeg&#34;/&gt;
+      
+	    I&rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
+	  </description></item>
+    
     <item>
       <title>Blogging - another attempt</title>
       <link>/posts/2023/blogging-another-attempt/</link>
       <pubDate>Tue, 28 Nov 2023 05:00:00 +0000</pubDate>
+      
       <guid>/posts/2023/blogging-another-attempt/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2023/blogging-another-attempt//featured.png&#34;/&gt;
-        One more try
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2023/blogging-another-attempt/featured.png&#34;/&gt;
+      
+	    One more try
+	  </description></item>
+    
     <item>
       <title>Shouting into the void?</title>
       <link>/posts/2022/2022-03-11-first-post-long-time/</link>
       <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
+      
       <guid>/posts/2022/2022-03-11-first-post-long-time/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2022/2022-03-11-first-post-long-time//featured.png&#34;/&gt;
-        It&amp;rsquo;s almost a year since I&amp;rsquo;ve posted. Going to restart, really, but who&amp;rsquo;s going to pay attention?
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2022/2022-03-11-first-post-long-time/featured.png&#34;/&gt;
+      
+	    It&rsquo;s almost a year since I&rsquo;ve posted. Going to restart, really, but who&rsquo;s going to pay attention?
+	  </description></item>
+    
     <item>
       <title>I&#39;m back to blogging</title>
       <link>/posts/2020/2020-12-15-back-to-blogging/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
       <guid>/posts/2020/2020-12-15-back-to-blogging/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging//featured.png&#34;/&gt;
-        It&amp;rsquo;s been a while since I&amp;rsquo;ve worked on my blog, but there&amp;rsquo;s no better time than now to refresh the way it looks and to start writing again.
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2020/2020-12-15-back-to-blogging/featured.png&#34;/&gt;
+      
+	    It&rsquo;s been a while since I&rsquo;ve worked on my blog, but there&rsquo;s no better time than now to refresh the way it looks and to start writing again.
+	  </description></item>
+    
   </channel>
 </rss>

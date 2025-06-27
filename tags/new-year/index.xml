@@ -4,19 +4,30 @@
     <title>New Year on Larry&#39;s Random Ramblings</title>
     <link>/tags/new-year/</link>
     <description>Recent content in New Year on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 05:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 05:00:00 +0000</lastBuildDate><atom:link href="/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>158960967855996928</userId>
+    </follow_challenge>
+    
+    
     <item>
       <title>A Very Happy New Year To You</title>
       <link>/posts/2021/2021-01-01/</link>
       <pubDate>Fri, 01 Jan 2021 05:00:00 +0000</pubDate>
+      
       <guid>/posts/2021/2021-01-01/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2021/2021-01-01//featured.png&#34;/&gt;
-        What&amp;rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2021/2021-01-01/featured.png&#34;/&gt;
+      
+	    What&rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
+	  </description></item>
+    
   </channel>
 </rss>

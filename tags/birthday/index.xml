@@ -4,19 +4,31 @@
     <title>Birthday on Larry&#39;s Random Ramblings</title>
     <link>/tags/birthday/</link>
     <description>Recent content in Birthday on Larry&#39;s Random Ramblings</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/birthday/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Larry G. Wapnitsky</copyright>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/birthday/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>158961557033123840</feedId>
+      <userId>158960967855996928</userId>
+    </follow_challenge>
+    
+    
     <item>
       <title>I&#39;m Turning 50!!</title>
       <link>/posts/2025/2025-01-18-im-turning-50/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/posts/2025/2025-01-18-im-turning-50/</guid>
-      <description>
-        &lt;img src=&#34;/posts/2025/2025-01-18-im-turning-50//featured.png&#34;/&gt;
-        &lt;iframe width=&#34;300&#34; height=&#34;154&#34; src=&#34;https://w2.countingdownto.com/6044570&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;As I approach the half-century mark of life, I believe it&amp;rsquo;s time to reflect on the past, examine the present, and plan for the future.&lt;/p&gt;
-      </description>
-    </item>
+      
+	  <description>
+      
+      
+	    &lt;img src=&#34;/posts/2025/2025-01-18-im-turning-50/featured.png&#34;/&gt;
+      
+	    <iframe width="300" height="154" src="https://w2.countingdownto.com/6044570" frameborder="0"></iframe>
+<p>As I approach the half-century mark of life, I believe it&rsquo;s time to reflect on the past, examine the present, and plan for the future.</p>
+	  </description></item>
+    
   </channel>
 </rss>
