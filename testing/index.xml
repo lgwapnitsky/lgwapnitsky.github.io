@@ -7,12 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <atom:link href="https://larry.wapnitsky.com/testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 12:37:06 +0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/testing/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>
     </follow_challenge>
     
+    
+    <item><title>YouTube Channel Testing</title>
+      <link>https://larry.wapnitsky.com/testing/youtubechanneltesting/</link>
+      <pubDate>Sat, 28 Jun 2025 12:37:06 +0000</pubDate>
+      
+      <guid>https://larry.wapnitsky.com/testing/youtubechanneltesting/</guid>
+      
+      <description> &lt;img src=&#34;&#34;/&gt;
+	      
+	    </description>
+    </item>
     
   </channel>
 </rss>
