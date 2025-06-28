@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food on Larry&#39;s Random Ramblings</title>
-    <link>/tags/food/</link>
+    <link>https://larry.wapnitsky.com/tags/food/</link>
     <description>Recent content in Food on Larry&#39;s Random Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Sat, 16 Jan 2021 05:00:00 +0000</lastBuildDate><atom:link href="/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 05:00:00 +0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/food/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>
@@ -15,39 +15,39 @@
     
     
     <item><title>Hot Triple Snack Round-Up: Chana Jor Garam, Ghost Pepper Potato Chips, and Hot Shrimp Crackers</title>
-      <link>/posts/2021/2021-01-16/</link>
+      <link>https://larry.wapnitsky.com/posts/2021/2021-01-16/</link>
       <pubDate>Sat, 16 Jan 2021 05:00:00 +0000</pubDate>
       
-      <guid>/posts/2021/2021-01-16/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-16/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-16/featured.png" />
-	<description> &lt;img src=&#34;/posts/2021/2021-01-16/featured.png&#34;/&gt;&lt;br&gt;
-	A few trips to different markets and I &amp;lsquo;bagged&amp;rsquo; myself a few new snacks to try out. What did I get, and how did they taste?
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2021/2021-01-16/featured.png&#34;/&gt;&lt;br&gt;
+	      A few trips to different markets and I &amp;lsquo;bagged&amp;rsquo; myself a few new snacks to try out. What did I get, and how did they taste?
+	    </description>
     </item>
     
     <item><title>Chips of deception - Tteokbokki</title>
-      <link>/posts/2021/2021-01-03/</link>
+      <link>https://larry.wapnitsky.com/posts/2021/2021-01-03/</link>
       <pubDate>Sun, 03 Jan 2021 05:00:00 +0000</pubDate>
       
-      <guid>/posts/2021/2021-01-03/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2021/2021-01-03/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2021/2021-01-03/featured.png" />
-	<description> &lt;img src=&#34;/posts/2021/2021-01-03/featured.png&#34;/&gt;&lt;br&gt;
-	Looked hot&amp;hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2021/2021-01-03/featured.png&#34;/&gt;&lt;br&gt;
+	      Looked hot&amp;hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.
+	    </description>
     </item>
     
     <item><title>The Chips Are On The Table/Hot Tikha Ganthia</title>
-      <link>/posts/2020/2020-12-22-the-chips-are-on-the-table/</link>
+      <link>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</link>
       <pubDate>Tue, 22 Dec 2020 05:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/2020-12-22-the-chips-are-on-the-table/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2020/2020-12-22-the-chips-are-on-the-table/featured.png" />
-	<description> &lt;img src=&#34;/posts/2020/2020-12-22-the-chips-are-on-the-table/featured.png&#34;/&gt;&lt;br&gt;
-	
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2020/2020-12-22-the-chips-are-on-the-table/featured.png&#34;/&gt;&lt;br&gt;
+	      
+	    </description>
     </item>
     
   </channel>

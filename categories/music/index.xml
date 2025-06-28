@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Larry&#39;s Random Ramblings</title>
-    <link>/categories/music/</link>
+    <link>https://larry.wapnitsky.com/categories/music/</link>
     <description>Recent content in Music on Larry&#39;s Random Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Sun, 09 Mar 2025 13:01:19 +0000</lastBuildDate><atom:link href="/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 13:01:19 +0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/categories/music/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>
@@ -15,15 +15,15 @@
     
     
     <item><title>Two albums by Wendy Carlos, and I want more</title>
-      <link>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
+      <link>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
       
-      <guid>/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png" />
-	<description> &lt;img src=&#34;/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png&#34;/&gt;&lt;br&gt;
-	Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2025/2025-03-09-two-albums-by-w-carlos-and-i-want-more/featured.png&#34;/&gt;&lt;br&gt;
+	      Two great finds in the thrift bins, and boy was I surprised about the quality and history behind them!
+	    </description>
     </item>
     
   </channel>

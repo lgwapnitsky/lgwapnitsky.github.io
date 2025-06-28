@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ham Radio on Larry&#39;s Random Ramblings</title>
-    <link>/tags/ham-radio/</link>
+    <link>https://larry.wapnitsky.com/tags/ham-radio/</link>
     <description>Recent content in Ham Radio on Larry&#39;s Random Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Mon, 23 Jun 2025 15:46:31 +0000</lastBuildDate><atom:link href="/tags/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 15:46:31 +0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/ham-radio/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>
@@ -15,15 +15,15 @@
     
     
     <item><title>UPDATES UPDATES UPDATES</title>
-      <link>/posts/2025/2025-06-23-updates-updates-updates/</link>
+      <link>https://larry.wapnitsky.com/posts/2025/2025-06-23-updates-updates-updates/</link>
       <pubDate>Mon, 23 Jun 2025 15:46:31 +0000</pubDate>
       
-      <guid>/posts/2025/2025-06-23-updates-updates-updates/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2025/2025-06-23-updates-updates-updates/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-06-23-updates-updates-updates/featured.png" />
-	<description> &lt;img src=&#34;/posts/2025/2025-06-23-updates-updates-updates/featured.png&#34;/&gt;&lt;br&gt;
-	I&amp;rsquo;m a slacker, but I&amp;rsquo;m getting better :)
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2025/2025-06-23-updates-updates-updates/featured.png&#34;/&gt;&lt;br&gt;
+	      I&amp;rsquo;m a slacker, but I&amp;rsquo;m getting better :)
+	    </description>
     </item>
     
   </channel>

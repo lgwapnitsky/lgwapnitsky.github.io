@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Larry&#39;s Random Ramblings</title>
-    <link>/tags/technology/</link>
+    <link>https://larry.wapnitsky.com/tags/technology/</link>
     <description>Recent content in Technology on Larry&#39;s Random Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 05:00:00 +0000</lastBuildDate><atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>
@@ -15,39 +15,39 @@
     
     
     <item><title>RSS Feeds are now working</title>
-      <link>/posts/2025/rss-now-working/</link>
+      <link>https://larry.wapnitsky.com/posts/2025/rss-now-working/</link>
       <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
       
-      <guid>/posts/2025/rss-now-working/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2025/rss-now-working/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/rss-now-working/featured.png" />
-	<description> &lt;img src=&#34;/posts/2025/rss-now-working/featured.png&#34;/&gt;&lt;br&gt;
-	But how do I use RSS?
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2025/rss-now-working/featured.png&#34;/&gt;&lt;br&gt;
+	      But how do I use RSS?
+	    </description>
     </item>
     
     <item><title>The social break (update) and a farewell</title>
-      <link>/posts/2025/social-break-farewell/</link>
+      <link>https://larry.wapnitsky.com/posts/2025/social-break-farewell/</link>
       <pubDate>Fri, 21 Feb 2025 05:00:00 +0000</pubDate>
       
-      <guid>/posts/2025/social-break-farewell/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2025/social-break-farewell/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/social-break-farewell/featured.png" />
-	<description> &lt;img src=&#34;/posts/2025/social-break-farewell/featured.png&#34;/&gt;&lt;br&gt;
-	
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2025/social-break-farewell/featured.png&#34;/&gt;&lt;br&gt;
+	      
+	    </description>
     </item>
     
     <item><title>Taking a break from social media</title>
-      <link>/posts/2025/2025-01-22-taking-a-break-from-social-media/</link>
+      <link>https://larry.wapnitsky.com/posts/2025/2025-01-22-taking-a-break-from-social-media/</link>
       <pubDate>Tue, 21 Jan 2025 12:00:07 +0000</pubDate>
       
-      <guid>/posts/2025/2025-01-22-taking-a-break-from-social-media/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2025/2025-01-22-taking-a-break-from-social-media/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2025/2025-01-22-taking-a-break-from-social-media/featured.png" />
-	<description> &lt;img src=&#34;/posts/2025/2025-01-22-taking-a-break-from-social-media/featured.png&#34;/&gt;&lt;br&gt;
-	Social media, for me, has become somewhat tiresome, causing me to once again take a break. Yes, this sounds whiny, but let me explain my thoughts as to why I&amp;rsquo;m not leaving it permanently.
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2025/2025-01-22-taking-a-break-from-social-media/featured.png&#34;/&gt;&lt;br&gt;
+	      Social media, for me, has become somewhat tiresome, causing me to once again take a break. Yes, this sounds whiny, but let me explain my thoughts as to why I&amp;rsquo;m not leaving it permanently.
+	    </description>
     </item>
     
   </channel>

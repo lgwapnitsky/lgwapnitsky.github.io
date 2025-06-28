@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Larry&#39;s Random Ramblings</title>
-    <link>https://larry.wapnitsky.com/series/</link>
-    <description>Recent content in Series on Larry&#39;s Random Ramblings</description>
+    <title>post testing on Larry&#39;s Random Ramblings</title>
+    <link>https://larry.wapnitsky.com/testing/</link>
+    <description>Recent content in post testing on Larry&#39;s Random Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <atom:link href="https://larry.wapnitsky.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://larry.wapnitsky.com/testing/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>

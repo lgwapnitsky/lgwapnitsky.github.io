@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideas on Larry&#39;s Random Ramblings</title>
-    <link>/tags/ideas/</link>
+    <link>https://larry.wapnitsky.com/tags/ideas/</link>
     <description>Recent content in Ideas on Larry&#39;s Random Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Mon, 04 Dec 2023 05:05:08 -0500</lastBuildDate><atom:link href="/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Dec 2023 05:05:08 -0500</lastBuildDate><atom:link href="https://larry.wapnitsky.com/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>
@@ -15,15 +15,15 @@
     
     
     <item><title>New Ideas</title>
-      <link>/posts/2023/new-ideas/</link>
+      <link>https://larry.wapnitsky.com/posts/2023/new-ideas/</link>
       <pubDate>Mon, 04 Dec 2023 05:05:08 -0500</pubDate>
       
-      <guid>/posts/2023/new-ideas/</guid>
+      <guid>https://larry.wapnitsky.com/posts/2023/new-ideas/</guid>
       
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2023/new-ideas/featured.jpeg" />
-	<description> &lt;img src=&#34;/posts/2023/new-ideas/featured.jpeg&#34;/&gt;&lt;br&gt;
-	I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
-	</description>
+      
+      	<description> &lt;img src=&#34;https://larry.wapnitsky.com/posts/2023/new-ideas/featured.jpeg&#34;/&gt;&lt;br&gt;
+	      I&amp;rsquo;ve had some ideas about what I want to write about here. What are my thoughts?
+	    </description>
     </item>
     
   </channel>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Larry&#39;s Random Ramblings</title>
-    <link>/categories/</link>
+    <link>https://larry.wapnitsky.com/categories/</link>
     <description>Recent content in Categories on Larry&#39;s Random Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Larry G. Wapnitsky</copyright>
-    <lastBuildDate>Mon, 17 Mar 2025 11:50:15 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Mar 2025 11:50:15 +0000</lastBuildDate><atom:link href="https://larry.wapnitsky.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <follow_challenge>
       <feedId>158961557033123840</feedId>
       <userId>158960967855996928</userId>
@@ -15,25 +15,25 @@
     
     
     <item><title>Cooking</title>
-      <link>/categories/cooking/</link>
+      <link>https://larry.wapnitsky.com/categories/cooking/</link>
       <pubDate>Mon, 17 Mar 2025 11:50:15 +0000</pubDate>
       
-      <guid>/categories/cooking/</guid>
+      <guid>https://larry.wapnitsky.com/categories/cooking/</guid>
       
       <description> &lt;img src=&#34;&#34;/&gt;&lt;br&gt;
-	
-	</description>
+	      
+	    </description>
     </item>
     
     <item><title>Music</title>
-      <link>/categories/music/</link>
+      <link>https://larry.wapnitsky.com/categories/music/</link>
       <pubDate>Sun, 09 Mar 2025 13:01:19 +0000</pubDate>
       
-      <guid>/categories/music/</guid>
+      <guid>https://larry.wapnitsky.com/categories/music/</guid>
       
       <description> &lt;img src=&#34;&#34;/&gt;&lt;br&gt;
-	
-	</description>
+	      
+	    </description>
     </item>
     
   </channel>
