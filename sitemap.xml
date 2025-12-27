@@ -3,8 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://larry.wapnitsky.com/cooking/2025-07-25-camping-and-cooking-cheaply/</loc>
+    <lastmod>2025-07-25T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://larry.wapnitsky.com/</loc>
-    <lastmod>2025-06-28T12:37:06+00:00</lastmod>
+    <lastmod>2025-07-25T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://larry.wapnitsky.com/cooking/</loc>
+    <lastmod>2025-07-25T10:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,19 +39,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://larry.wapnitsky.com/cooking/2025-07-25-camping-and-cooking-cheaply/</loc>
-    <lastmod>2025-06-23T15:46:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://larry.wapnitsky.com/posts/2025/2025-06-23-updates-updates-updates/</loc>
-    <lastmod>2025-06-23T15:46:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://larry.wapnitsky.com/cooking/</loc>
     <lastmod>2025-06-23T15:46:31+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
