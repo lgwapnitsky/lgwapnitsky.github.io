@@ -110,8 +110,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.340061f1a5e8c181ce69bc60209d9257316c7e56160f76f50e438e7b78074e7c2a7e9269b7a2e415f2095f70c848a0826d3fec491623f95dac18ab6b84ded236.css"
-    integrity="sha512-NABh8aXowYHOabxgIJ2SVzFsflYWD3b1DkOOe3gHTnwqfpJpt6LkFfIJX3DISKCCbT/sSRYj&#43;V2sGKtrhN7SNg==">
+    href="/css/main.bundle.min.bfc3c4eb70190a298f1e16c501ff181579128c5d24bd5c52ae00e99755d24c507a0b09dcdb0db814caa30964b4ed543e809c20fc90b1244d4d85b704449d2e2f.css"
+    integrity="sha512-v8PE63AZCimPHhbFAf8YFXkSjF0kvVxSrgDpl1XSTFB6Cwnc2w24FMqjCWS07VQ&#43;gJwg/JCxJE1NhbcERJ0uLw==">
 
   
   
@@ -143,14 +143,13 @@
   
   
   
-  
     
     <script
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/js/main.bundle.min.f9f1b392b5ec57bc56a94efc71307ca4bcc638b86098a8dbd0588f73c9199295101dc0a5c69dfe3c22749eb36604dc02e5224e08bad474cb41809f7b4a7508ef.js"
-      integrity="sha512-&#43;fGzkrXsV7xWqU78cTB8pLzGOLhgmKjb0FiPc8kZkpUQHcClxp3&#43;PCJ0nrNmBNwC5SJOCLrUdMtBgJ97SnUI7w=="
+      src="/js/main.bundle.min.712c423dd585dfd031bf75a70aad3af4b3de24c6eec1fef682d92724b4026b842cf843c8535587e5096039348125c57ff1bea2d46b2b4af8124673ca085880c4.js"
+      integrity="sha512-cSxCPdWF39Axv3WnCq069LPeJMbuwf72gtknJLQCa4Qs&#43;EPIU1WH5QlgOTSBJcV/8b6i1GsrSvgSRnPKCFiAxA=="
       data-copy="Copy"
       data-copied="Copied"></script>
   
@@ -344,8 +343,7 @@
 
 
   
-  
-  <body class="flex flex-col h-screen m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32 text-lg bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
+  <body class="flex flex-col h-screen m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32 text-lg bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral bf-scrollbar">
     <div id="the-top" class="absolute flex self-center">
       <a
         class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
@@ -360,25 +358,9 @@
 <div class="fixed inset-x-0 z-100">
   <div
     id="menu-blur"
-    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom bg-neutral dark:bg-neutral-800"></div>
+    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl backdrop-saturate-220 backdrop-brightness-112 dark:backdrop-saturate-180 dark:backdrop-brightness-95 bg-primary-200/80 bg-linear-60 dark:bg-primary-800/30 shadow-xl"></div>
   <div class="relative m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32">
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div
-  class="main-menu flex items-center justify-between py-6 md:justify-start gap-x-3 pt-[2px] pr-2 md:pr-4 pb-[3px] pl-0">
-  
+    <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
   
     
     
@@ -390,58 +372,58 @@
               src="/busy-mind.jpg"
               width="240"
               height="240"
-              class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom"
+              class="logo max-h-20 max-w-20 object-scale-down object-left nozoom"
               alt="">
           
         </a>
       </div>
     
-
-  <div class="flex flex-1 items-center justify-between">
-    <nav class="flex space-x-3">
-      
-        <a href="/" class="text-base font-medium">
-          Larry&rsquo;s Random Ramblings
-        </a>
-      
-    </nav>
-    
-  <nav class="hidden md:flex items-center gap-x-5 md:ml-12 h-12">
-    
-      
-        
-  <a
-  href="/"
-  
-  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-  aria-label="Home"
-  title="Larry&#39;s Random Ramblings">
   
   
-    <p class="text-base font-medium">
-      Home
-    </p>
-  
-</a>
-
-
-
-      
-        
-  <div>
-  <div class="cursor-pointer flex items-center nested-menu">
-    
-    <a
-      
-      aria-label="What to read"
-      class="text-base font-medium hover:text-primary-600 dark:hover:text-primary-400"
-      title="">
-      <p>
-        What to read
-      </p>
+    <a href="/" class="text-base font-medium truncate min-w-0 shrink">
+      Larry&rsquo;s Random Ramblings
     </a>
-    <span>
-      <span class="relative block icon"><svg
+  
+  <div class="flex items-center ms-auto">
+    <div class="hidden md:flex">
+      <nav class="flex items-center gap-x-5 h-12">
+  
+    
+      
+  
+    <a
+      href="/"
+      
+      class="flex items-center bf-icon-color-hover"
+      aria-label="Home"
+      title="Larry&#39;s Random Ramblings">
+      
+      
+        <span class="text-base font-medium break-normal">
+          Home
+        </span>
+      
+    </a>
+  
+
+    
+      
+  
+    <div class="nested-menu">
+      <div class="cursor-pointer flex items-center">
+        <a
+          
+            tabindex="0"
+          
+          aria-label="What to read"
+          class="flex items-center text-base font-medium bf-icon-color-hover"
+          title="">
+          
+          <span class="text-bg font-bg break-normal" title="">
+            What to read
+          </span>
+          <span>
+            <span class="relative block icon"><svg
   xmlns="http://www.w3.org/2000/svg"
   viewBox="0 0 20 20"
   fill="currentColor"
@@ -454,535 +436,561 @@
   />
 </svg>
 </span>
-    </span>
-  </div>
-  <div class="absolute menuhide">
-    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
-      <div class="flex flex-col space-y-3">
-        
-          <a
-            href="/posts/"
+          </span>
+        </a>
+      </div>
+      <div class="menuhide">
+        <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl bg-neutral/25 dark:bg-neutral-800/25">
+          <div class="flex flex-col space-y-3">
             
-            aria-label=":notebook: Blog Posts"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
+              <a
+                href="/posts/"
+                
+                aria-label=":notebook: Blog Posts"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Blog Posts">
+                  &#x1f4d3; Blog Posts
+                </span>
+              </a>
             
-            <p class="text-sm font-sm" title="Blog Posts">
-              &#x1f4d3; Blog Posts
-            </p>
-          </a>
-        
-          <a
-            href="/cooking/"
+              <a
+                href="/cooking/"
+                
+                aria-label="What&#39;s Cooking?"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="What&#39;s Cooking?">
+                  What&rsquo;s Cooking?
+                </span>
+              </a>
             
-            aria-label="What&#39;s Cooking?"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-            
-            <p class="text-sm font-sm" title="What&#39;s Cooking?">
-              What&rsquo;s Cooking?
-            </p>
-          </a>
-        
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</div>
+  
 
-
-
-      
-        
-  <div>
-  <div class="cursor-pointer flex items-center nested-menu">
     
-    <a
       
-        href="/about/"
-        
-      
-      aria-label="About"
-      class="text-base font-medium hover:text-primary-600 dark:hover:text-primary-400"
-      title="Who is Larry?">
-      <p>
-        About
-      </p>
-    </a>
-    <span>
-      <span class="relative block icon"><svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 20 20"
-  fill="currentColor"
-  aria-hidden="true"
->
-  <path
-    fill-rule="evenodd"
-    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-    clip-rule="evenodd"
-  />
-</svg>
-</span>
-    </span>
-  </div>
-  <div class="absolute menuhide">
-    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
-      <div class="flex flex-col space-y-3">
-        
-          <a
+  
+    <div class="nested-menu">
+      <div class="cursor-pointer flex items-center">
+        <a
+          
             href="/about/"
             
-            aria-label="Who am I?"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-            
-            <p class="text-sm font-sm" title="Who is Larry?">
-              Who am I?
-            </p>
-          </a>
-        
-          <a
-            href="https://larry.wapnitsky.com/profile"
-            
-              target="_blank"
-            
-            aria-label="Technical Profile"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-            
-            <p class="text-sm font-sm" title="">
-              Technical Profile
-            </p>
-          </a>
-        
-          <a
-            href="https://github.com/lgwapnitsky"
-            
-              target="_blank"
-            
-            aria-label="My Github Repositories"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-            
-            <p class="text-sm font-sm" title="">
-              My Github Repositories
-            </p>
-          </a>
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-      
-        
-  <div>
-  <div class="cursor-pointer flex items-center nested-menu">
-    
-    <a
-      
-      aria-label="RSS Feeds"
-      class="text-base font-medium hover:text-primary-600 dark:hover:text-primary-400"
-      title="">
-      <p>
-        RSS Feeds
-      </p>
-    </a>
-    <span>
-      <span class="relative block icon"><svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 20 20"
-  fill="currentColor"
-  aria-hidden="true"
->
-  <path
-    fill-rule="evenodd"
-    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-    clip-rule="evenodd"
-  />
-</svg>
-</span>
-    </span>
-  </div>
-  <div class="absolute menuhide">
-    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
-      <div class="flex flex-col space-y-3">
-        
-          <a
-            href="/index.xml"
-            
-            aria-label="All site posts"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-            
-            <p class="text-sm font-sm" title="">
-              All site posts
-            </p>
-          </a>
-        
-          <a
-            href="/posts/index.xml"
-            
-            aria-label="Blog Posts Only"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-            
-            <p class="text-sm font-sm" title="">
-              Blog Posts Only
-            </p>
-          </a>
-        
-          <a
-            href="/cooking/index.xml"
-            
-            aria-label="What&#39;s Cooking? Only"
-            class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-            
-            <p class="text-sm font-sm" title="">
-              What&rsquo;s Cooking? Only
-            </p>
-          </a>
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-      
-        
-  <a
-  href="/tags/"
-  
-  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-  aria-label="Tags"
-  title="Tags">
-  
-  
-    <p class="text-base font-medium">
-      Tags
-    </p>
-  
-</a>
-
-
-
-      
-    
-
-    
-
-    
-
-    
-      <button
-        id="search-button"
-        aria-label="Search"
-        class="text-base hover:text-primary-600 dark:hover:text-primary-400"
-        title="Search (/)">
-        <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
-</span>
-      </button>
-    
-
-    
-  </nav>
-
-    
-  <div class="flex md:hidden items-center gap-x-5 md:ml-12 h-12">
-    <span></span>
-
-    
-
-    
-
-    
-      <button
-        id="search-button-mobile"
-        aria-label="Search"
-        class="text-base hover:text-primary-600 dark:hover:text-primary-400"
-        title="Search (/)">
-        <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
-</span>
-      </button>
-    
-
-    
-  </div>
-
-  </div>
-  
-  <div class="-my-2 md:hidden">
-    <div id="menu-button" class="block">
-      
-        <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
-          <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"/></svg>
-</span>
-        </div>
-        <div
-          id="menu-wrapper"
-          class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]">
-          <ul
-            class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none text-end max-w-7xl">
-            <li id="menu-close-button">
-              <span
-                class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
-                <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
-</span>
-              </span>
-            </li>
-
-            
-              
-  <li class="mt-1">
-  <a
-    href="/"
-    
-    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-    aria-label="Home"
-    title="Larry&#39;s Random Ramblings">
-    
-    
-      <p class="text-bg font-bg">
-        Home
-      </p>
-    
-  </a>
-</li>
-
-
-
-            
-              
-  <li class="mt-1">
-  <a
-    href=""
-    aria-label="What to read"
-    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-bg font-bg" title="">
-      What to read
-    </p>
-    <span>
-      <span class="relative block icon"><svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 20 20"
-  fill="currentColor"
-  aria-hidden="true"
->
-  <path
-    fill-rule="evenodd"
-    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-    clip-rule="evenodd"
-  />
-</svg>
-</span>
-    </span>
-  </a>
-</li>
-
-  <li class="mt-1">
-    <a
-      href="/posts/"
-      
-      aria-label=":notebook: Blog Posts"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="Blog Posts">
-        &#x1f4d3; Blog Posts
-      </p>
-    </a>
-  </li>
-
-  <li class="mt-1">
-    <a
-      href="/cooking/"
-      
-      aria-label="What&#39;s Cooking?"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="What&#39;s Cooking?">
-        What&rsquo;s Cooking?
-      </p>
-    </a>
-  </li>
-
-<li class="mb-2"></li>
-
-
-
-            
-              
-  <li class="mt-1">
-  <a
-    href="/about/"
-    aria-label="About"
-    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-bg font-bg" title="Who is Larry?">
-      About
-    </p>
-    <span>
-      <span class="relative block icon"><svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 20 20"
-  fill="currentColor"
-  aria-hidden="true"
->
-  <path
-    fill-rule="evenodd"
-    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-    clip-rule="evenodd"
-  />
-</svg>
-</span>
-    </span>
-  </a>
-</li>
-
-  <li class="mt-1">
-    <a
-      href="/about/"
-      
-      aria-label="Who am I?"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="Who is Larry?">
-        Who am I?
-      </p>
-    </a>
-  </li>
-
-  <li class="mt-1">
-    <a
-      href="https://larry.wapnitsky.com/profile"
-      
-        target="_blank"
-      
-      aria-label="Technical Profile"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="">
-        Technical Profile
-      </p>
-    </a>
-  </li>
-
-  <li class="mt-1">
-    <a
-      href="https://github.com/lgwapnitsky"
-      
-        target="_blank"
-      
-      aria-label="My Github Repositories"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="">
-        My Github Repositories
-      </p>
-    </a>
-  </li>
-
-<li class="mb-2"></li>
-
-
-
-            
-              
-  <li class="mt-1">
-  <a
-    href=""
-    aria-label="RSS Feeds"
-    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-bg font-bg" title="">
-      RSS Feeds
-    </p>
-    <span>
-      <span class="relative block icon"><svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 20 20"
-  fill="currentColor"
-  aria-hidden="true"
->
-  <path
-    fill-rule="evenodd"
-    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-    clip-rule="evenodd"
-  />
-</svg>
-</span>
-    </span>
-  </a>
-</li>
-
-  <li class="mt-1">
-    <a
-      href="/index.xml"
-      
-      aria-label="All site posts"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="">
-        All site posts
-      </p>
-    </a>
-  </li>
-
-  <li class="mt-1">
-    <a
-      href="/posts/index.xml"
-      
-      aria-label="Blog Posts Only"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="">
-        Blog Posts Only
-      </p>
-    </a>
-  </li>
-
-  <li class="mt-1">
-    <a
-      href="/cooking/index.xml"
-      
-      aria-label="What&#39;s Cooking? Only"
-      class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-      
-      <p class="text-sm font-small" title="">
-        What&rsquo;s Cooking? Only
-      </p>
-    </a>
-  </li>
-
-<li class="mb-2"></li>
-
-
-
-            
-              
-  <li class="mt-1">
-  <a
-    href="/tags/"
-    
-    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-    aria-label="Tags"
-    title="Tags">
-    
-    
-      <p class="text-bg font-bg">
-        Tags
-      </p>
-    
-  </a>
-</li>
-
-
-
-            
-
-          </ul>
           
+          aria-label="About"
+          class="flex items-center text-base font-medium bf-icon-color-hover"
+          title="Who is Larry?">
+          
+          <span class="text-bg font-bg break-normal" title="Who is Larry?">
+            About
+          </span>
+          <span>
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </span>
+        </a>
+      </div>
+      <div class="menuhide">
+        <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl bg-neutral/25 dark:bg-neutral-800/25">
+          <div class="flex flex-col space-y-3">
+            
+              <a
+                href="/about/"
+                
+                aria-label="Who am I?"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Who is Larry?">
+                  Who am I?
+                </span>
+              </a>
+            
+              <a
+                href="https://larry.wapnitsky.com/profile"
+                
+                  target="_blank"
+                
+                aria-label="Technical Profile"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="">
+                  Technical Profile
+                </span>
+              </a>
+            
+              <a
+                href="https://github.com/lgwapnitsky"
+                
+                  target="_blank"
+                
+                aria-label="My Github Repositories"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="">
+                  My Github Repositories
+                </span>
+              </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+    
+      
+  
+    <div class="nested-menu">
+      <div class="cursor-pointer flex items-center">
+        <a
+          
+            tabindex="0"
+          
+          aria-label="RSS Feeds"
+          class="flex items-center text-base font-medium bf-icon-color-hover"
+          title="">
+          
+          <span class="text-bg font-bg break-normal" title="">
+            RSS Feeds
+          </span>
+          <span>
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </span>
+        </a>
+      </div>
+      <div class="menuhide">
+        <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl bg-neutral/25 dark:bg-neutral-800/25">
+          <div class="flex flex-col space-y-3">
+            
+              <a
+                href="/index.xml"
+                
+                aria-label="All site posts"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="">
+                  All site posts
+                </span>
+              </a>
+            
+              <a
+                href="/posts/index.xml"
+                
+                aria-label="Blog Posts Only"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="">
+                  Blog Posts Only
+                </span>
+              </a>
+            
+              <a
+                href="/cooking/index.xml"
+                
+                aria-label="What&#39;s Cooking? Only"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="">
+                  What&rsquo;s Cooking? Only
+                </span>
+              </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+    
+      
+  
+    <a
+      href="/tags/"
+      
+      class="flex items-center bf-icon-color-hover"
+      aria-label="Tags"
+      title="Tags">
+      
+      
+        <span class="text-base font-medium break-normal">
+          Tags
+        </span>
+      
+    </a>
+  
+
+    
+  
+
+  
+
+  
+
+  
+    <button
+      id="search-button"
+      aria-label="Search"
+      class="text-base bf-icon-color-hover"
+      title="Search (/)">
+      <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+</span>
+    </button>
+  
+
+  
+</nav>
+
+
+
+    </div>
+    <div class="flex md:hidden">
+      <div class="flex items-center h-14 gap-4">
+  
+    <button
+      id="search-button-mobile"
+      aria-label="Search"
+      class="flex items-center justify-center bf-icon-color-hover"
+      title="Search (/)">
+      <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+</span>
+    </button>
+  
+
+  
+
+  
+    <input type="checkbox" id="mobile-menu-toggle" autocomplete="off" class="hidden peer">
+    <label for="mobile-menu-toggle" class="flex items-center justify-center cursor-pointer bf-icon-color-hover">
+      <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"/></svg>
+</span>
+    </label>
+
+    <div
+      role="dialog"
+      aria-modal="true"
+      style="scrollbar-gutter: stable;"
+      class="fixed inset-0 z-50 invisible overflow-y-auto px-6 py-20 opacity-0 transition-[opacity,visibility] duration-300 peer-checked:visible peer-checked:opacity-100 bg-neutral-50/97 dark:bg-neutral-900/99
+      bf-scrollbar">
+      <label
+        for="mobile-menu-toggle"
+        class="fixed end-8 top-5 flex items-center justify-center z-50 h-12 w-12 cursor-pointer select-none rounded-full bf-icon-color-hover border bf-border-color bf-border-color-hover bg-neutral-50 dark:bg-neutral-900">
+        <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+</span>
+      </label>
+      <nav class="mx-auto max-w-md space-y-6">
+        
+  
+    
+    <div class="px-2">
+      <a
+        href="/"
+        aria-label="Home"
+        
+        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+        
+        <span title="Larry&#39;s Random Ramblings" class="text-2xl font-bold tracking-tight">
+          Home
+        </span>
+        
+      </a>
+
+      
+    </div>
+  
+    
+    <div class="px-2">
+      <a
+        href=""
+        aria-label="What to read"
+        
+        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+        
+        <span title="" class="text-2xl font-bold tracking-tight">
+          What to read
+        </span>
+        
+          <label
+            for="fullscreen-submenu-what-to-read"
+            class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </label>
+        
+      </a>
+
+      
+        <input checked type="checkbox" id="fullscreen-submenu-what-to-read" autocomplete="off" class="hidden peer/full">
+
+        <div
+          class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
+          <div class="overflow-hidden">
+            <div class="ms-7 mt-4">
+              
+                <a
+                  href="/posts/"
+                  aria-label=":notebook: Blog Posts"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Blog Posts" class="text-lg">
+                    &#x1f4d3; Blog Posts
+                  </span>
+                </a>
+              
+                <a
+                  href="/cooking/"
+                  aria-label="What&#39;s Cooking?"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="What&#39;s Cooking?" class="text-lg">
+                    What&rsquo;s Cooking?
+                  </span>
+                </a>
+              
+            </div>
+          </div>
         </div>
       
     </div>
-  </div>
+  
+    
+    <div class="px-2">
+      <a
+        href="/about/"
+        aria-label="About"
+        
+        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+        
+        <span title="Who is Larry?" class="text-2xl font-bold tracking-tight">
+          About
+        </span>
+        
+          <label
+            for="fullscreen-submenu-about"
+            class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </label>
+        
+      </a>
 
+      
+        <input checked type="checkbox" id="fullscreen-submenu-about" autocomplete="off" class="hidden peer/full">
+
+        <div
+          class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
+          <div class="overflow-hidden">
+            <div class="ms-7 mt-4">
+              
+                <a
+                  href="/about/"
+                  aria-label="Who am I?"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Who is Larry?" class="text-lg">
+                    Who am I?
+                  </span>
+                </a>
+              
+                <a
+                  href="https://larry.wapnitsky.com/profile"
+                  aria-label="Technical Profile"
+                  
+                    target="_blank"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="" class="text-lg">
+                    Technical Profile
+                  </span>
+                </a>
+              
+                <a
+                  href="https://github.com/lgwapnitsky"
+                  aria-label="My Github Repositories"
+                  
+                    target="_blank"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="" class="text-lg">
+                    My Github Repositories
+                  </span>
+                </a>
+              
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  
+    
+    <div class="px-2">
+      <a
+        href=""
+        aria-label="RSS Feeds"
+        
+        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+        
+        <span title="" class="text-2xl font-bold tracking-tight">
+          RSS Feeds
+        </span>
+        
+          <label
+            for="fullscreen-submenu-rss-feeds"
+            class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </label>
+        
+      </a>
+
+      
+        <input checked type="checkbox" id="fullscreen-submenu-rss-feeds" autocomplete="off" class="hidden peer/full">
+
+        <div
+          class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
+          <div class="overflow-hidden">
+            <div class="ms-7 mt-4">
+              
+                <a
+                  href="/index.xml"
+                  aria-label="All site posts"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="" class="text-lg">
+                    All site posts
+                  </span>
+                </a>
+              
+                <a
+                  href="/posts/index.xml"
+                  aria-label="Blog Posts Only"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="" class="text-lg">
+                    Blog Posts Only
+                  </span>
+                </a>
+              
+                <a
+                  href="/cooking/index.xml"
+                  aria-label="What&#39;s Cooking? Only"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="" class="text-lg">
+                    What&rsquo;s Cooking? Only
+                  </span>
+                </a>
+              
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  
+    
+    <div class="px-2">
+      <a
+        href="/tags/"
+        aria-label="Tags"
+        
+        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+        
+        <span title="Tags" class="text-2xl font-bold tracking-tight">
+          Tags
+        </span>
+        
+      </a>
+
+      
+    </div>
+  
+
+        
+  
+
+        
+  
+
+      </nav>
+    </div>
+  
+</div>
+
+
+
+
+
+
+
+    </div>
+  </div>
 </div>
 
 
@@ -998,7 +1006,6 @@
   src="/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
   integrity="sha512-AKV8c&#43;oS8sqymAw8PWSeifbYLxkPdLvitn8vXjmrfQMuzkcIZADKBTlnWKrOEymdpJrKQ&#43;pkPSYl5ixQYmehaQ=="
   data-blur-id="menu-blur"></script>
-
     
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
@@ -1209,9 +1216,9 @@
 
         <div class="article-content max-w-prose mb-20">
           <p>Overall fitness improvement is the goal for not just this year, but the future in general. I&rsquo;m not going to set time- or weight-specific goals, as those have caused me to struggle mentally in the past. What I DO want to do is lower my weight to a more healthy range and get my physical activity back up to a reasonable state so that I can be active without getting tired.</p>
-<p>All this combined starts today,  January 4th, 2021 (well, actually last night). I began doing intermittent fasting again using <a href="https://www.zerofasting.com/"  target="_blank">Zero</a> as my tracker and guide. I have my fitness apps all set to go, as well as videos I&rsquo;ve made note of on YouTube. In addition, I&rsquo;ve already spoken to the guys in my accountability group, and we&rsquo;re all in this together. I believe that last part is what&rsquo;s going to really push me through this year, as the intent is to really be accountable to each other.</p>
+<p>All this combined starts today,  January 4th, 2021 (well, actually last night). I began doing intermittent fasting again using <a href="https://www.zerofasting.com/"  target="_blank" rel="noreferrer">Zero</a> as my tracker and guide. I have my fitness apps all set to go, as well as videos I&rsquo;ve made note of on YouTube. In addition, I&rsquo;ve already spoken to the guys in my accountability group, and we&rsquo;re all in this together. I believe that last part is what&rsquo;s going to really push me through this year, as the intent is to really be accountable to each other.</p>
 <p>Today&rsquo;s plan - continue my fast and get a little exercise and meditation in.</p>
-<p>If you plan to follow me on this journey, don&rsquo;t expect the use of the word <em>diet</em> or specific mentions of actual body weight. What you can expect is to see updates on how I&rsquo;m feeling mentally about the physical changes and (hopeful) improvements that are coming. Drop me a line on Twitter <a href="https://twitter.com/lgwapnitsky"  target="_blank">@lgwapnitsky</a> with words of encouragement, inspiration, or if you want accountability.</p>
+<p>If you plan to follow me on this journey, don&rsquo;t expect the use of the word <em>diet</em> or specific mentions of actual body weight. What you can expect is to see updates on how I&rsquo;m feeling mentally about the physical changes and (hopeful) improvements that are coming. Drop me a line on Twitter <a href="https://twitter.com/lgwapnitsky"  target="_blank" rel="noreferrer">@lgwapnitsky</a> with words of encouragement, inspiration, or if you want accountability.</p>
 <iframe src="https://giphy.com/embed/8y8NVqFqhTQVa" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ratatouille-admin-billy-boyd-8y8NVqFqhTQVa">via GIPHY</a></p>
 
           
@@ -1267,7 +1274,7 @@
 
 
 <article
-  class="relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  class="article-link--related relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       <img
@@ -1405,7 +1412,9 @@
 
     </div>
     
-      <div class="prose dark:prose-invert py-1">Looked hot&hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.</div>
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+        Looked hot&hellip;was not. Going by the packaging alone, I expected these to kill my tastebuds, but mild disappointment was all I got.
+      </div>
     
   </div>
   <div class="px-6 pt-4 pb-2"></div>
@@ -1450,7 +1459,7 @@
 
 
 <article
-  class="relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  class="article-link--related relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       <img
@@ -1588,7 +1597,9 @@
 
     </div>
     
-      <div class="prose dark:prose-invert py-1">What&rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?</div>
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+        What&rsquo;s in store for me in the coming year? How do I plan to educate and improve myself?
+      </div>
     
   </div>
   <div class="px-6 pt-4 pb-2"></div>
@@ -1736,7 +1747,7 @@
     
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
           &copy;
-          2025
+          2026
           Larry G. Wapnitsky
       </p>
     
